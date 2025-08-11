@@ -1,0 +1,15 @@
+C:\Users\mathe\Material dos Cursos\udemy-csharp\aulas\1PrimeiroProjeto\obj\Debug\net8.0\1PrimeiroProjeto.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mathe\Material dos Cursos\udemy-csharp\aulas\1PrimeiroProjeto\obj\Debug\net8.0\1PrimeiroProjeto.AssemblyInfoInputs.cache
+C:\Users\mathe\Material dos Cursos\udemy-csharp\aulas\1PrimeiroProjeto\obj\Debug\net8.0\1PrimeiroProjeto.AssemblyInfo.cs
+C:\Users\mathe\Material dos Cursos\udemy-csharp\aulas\1PrimeiroProjeto\obj\Debug\net8.0\1PrimeiroProjeto.csproj.CoreCompileInputs.cache
+C:\Users\mathe\Material dos Cursos\udemy-csharp\aulas\1PrimeiroProjeto\obj\Debug\net8.0\1PrimeiroProjeto.sourcelink.json
+C:\Users\mathe\Material dos Cursos\udemy-csharp\aulas\1PrimeiroProjeto\bin\Debug\net8.0\1PrimeiroProjeto.exe
+C:\Users\mathe\Material dos Cursos\udemy-csharp\aulas\1PrimeiroProjeto\bin\Debug\net8.0\1PrimeiroProjeto.deps.json
+C:\Users\mathe\Material dos Cursos\udemy-csharp\aulas\1PrimeiroProjeto\bin\Debug\net8.0\1PrimeiroProjeto.runtimeconfig.json
+C:\Users\mathe\Material dos Cursos\udemy-csharp\aulas\1PrimeiroProjeto\bin\Debug\net8.0\1PrimeiroProjeto.dll
+C:\Users\mathe\Material dos Cursos\udemy-csharp\aulas\1PrimeiroProjeto\bin\Debug\net8.0\1PrimeiroProjeto.pdb
+C:\Users\mathe\Material dos Cursos\udemy-csharp\aulas\1PrimeiroProjeto\obj\Debug\net8.0\1PrimeiroProjeto.dll
+C:\Users\mathe\Material dos Cursos\udemy-csharp\aulas\1PrimeiroProjeto\obj\Debug\net8.0\refint\1PrimeiroProjeto.dll
+C:\Users\mathe\Material dos Cursos\udemy-csharp\aulas\1PrimeiroProjeto\obj\Debug\net8.0\1PrimeiroProjeto.pdb
+C:\Users\mathe\Material dos Cursos\udemy-csharp\aulas\1PrimeiroProjeto\obj\Debug\net8.0\1PrimeiroProjeto.genruntimeconfig.cache
+C:\Users\mathe\Material dos Cursos\udemy-csharp\aulas\1PrimeiroProjeto\obj\Debug\net8.0\ref\1PrimeiroProjeto.dll
