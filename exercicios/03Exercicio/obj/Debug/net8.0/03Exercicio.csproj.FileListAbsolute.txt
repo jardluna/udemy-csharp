@@ -1,0 +1,15 @@
+C:\Users\mathe\Material dos Cursos\udemy-csharp\exercicios\03Exercicio\bin\Debug\net8.0\03Exercicio.exe
+C:\Users\mathe\Material dos Cursos\udemy-csharp\exercicios\03Exercicio\bin\Debug\net8.0\03Exercicio.deps.json
+C:\Users\mathe\Material dos Cursos\udemy-csharp\exercicios\03Exercicio\bin\Debug\net8.0\03Exercicio.runtimeconfig.json
+C:\Users\mathe\Material dos Cursos\udemy-csharp\exercicios\03Exercicio\bin\Debug\net8.0\03Exercicio.dll
+C:\Users\mathe\Material dos Cursos\udemy-csharp\exercicios\03Exercicio\bin\Debug\net8.0\03Exercicio.pdb
+C:\Users\mathe\Material dos Cursos\udemy-csharp\exercicios\03Exercicio\obj\Debug\net8.0\03Exercicio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mathe\Material dos Cursos\udemy-csharp\exercicios\03Exercicio\obj\Debug\net8.0\03Exercicio.AssemblyInfoInputs.cache
+C:\Users\mathe\Material dos Cursos\udemy-csharp\exercicios\03Exercicio\obj\Debug\net8.0\03Exercicio.AssemblyInfo.cs
+C:\Users\mathe\Material dos Cursos\udemy-csharp\exercicios\03Exercicio\obj\Debug\net8.0\03Exercicio.csproj.CoreCompileInputs.cache
+C:\Users\mathe\Material dos Cursos\udemy-csharp\exercicios\03Exercicio\obj\Debug\net8.0\03Exercicio.sourcelink.json
+C:\Users\mathe\Material dos Cursos\udemy-csharp\exercicios\03Exercicio\obj\Debug\net8.0\03Exercicio.dll
+C:\Users\mathe\Material dos Cursos\udemy-csharp\exercicios\03Exercicio\obj\Debug\net8.0\refint\03Exercicio.dll
+C:\Users\mathe\Material dos Cursos\udemy-csharp\exercicios\03Exercicio\obj\Debug\net8.0\03Exercicio.pdb
+C:\Users\mathe\Material dos Cursos\udemy-csharp\exercicios\03Exercicio\obj\Debug\net8.0\03Exercicio.genruntimeconfig.cache
+C:\Users\mathe\Material dos Cursos\udemy-csharp\exercicios\03Exercicio\obj\Debug\net8.0\ref\03Exercicio.dll
