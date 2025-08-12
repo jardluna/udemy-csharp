@@ -1,0 +1,15 @@
+C:\Users\mathe\Material dos Cursos\udemy-csharp\aulas\2SaidaDeDados\bin\Debug\net8.0\2SaidaDeDados.exe
+C:\Users\mathe\Material dos Cursos\udemy-csharp\aulas\2SaidaDeDados\bin\Debug\net8.0\2SaidaDeDados.deps.json
+C:\Users\mathe\Material dos Cursos\udemy-csharp\aulas\2SaidaDeDados\bin\Debug\net8.0\2SaidaDeDados.runtimeconfig.json
+C:\Users\mathe\Material dos Cursos\udemy-csharp\aulas\2SaidaDeDados\bin\Debug\net8.0\2SaidaDeDados.dll
+C:\Users\mathe\Material dos Cursos\udemy-csharp\aulas\2SaidaDeDados\bin\Debug\net8.0\2SaidaDeDados.pdb
+C:\Users\mathe\Material dos Cursos\udemy-csharp\aulas\2SaidaDeDados\obj\Debug\net8.0\2SaidaDeDados.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mathe\Material dos Cursos\udemy-csharp\aulas\2SaidaDeDados\obj\Debug\net8.0\2SaidaDeDados.AssemblyInfoInputs.cache
+C:\Users\mathe\Material dos Cursos\udemy-csharp\aulas\2SaidaDeDados\obj\Debug\net8.0\2SaidaDeDados.AssemblyInfo.cs
+C:\Users\mathe\Material dos Cursos\udemy-csharp\aulas\2SaidaDeDados\obj\Debug\net8.0\2SaidaDeDados.csproj.CoreCompileInputs.cache
+C:\Users\mathe\Material dos Cursos\udemy-csharp\aulas\2SaidaDeDados\obj\Debug\net8.0\2SaidaDeDados.sourcelink.json
+C:\Users\mathe\Material dos Cursos\udemy-csharp\aulas\2SaidaDeDados\obj\Debug\net8.0\2SaidaDeDados.dll
+C:\Users\mathe\Material dos Cursos\udemy-csharp\aulas\2SaidaDeDados\obj\Debug\net8.0\refint\2SaidaDeDados.dll
+C:\Users\mathe\Material dos Cursos\udemy-csharp\aulas\2SaidaDeDados\obj\Debug\net8.0\2SaidaDeDados.pdb
+C:\Users\mathe\Material dos Cursos\udemy-csharp\aulas\2SaidaDeDados\obj\Debug\net8.0\2SaidaDeDados.genruntimeconfig.cache
+C:\Users\mathe\Material dos Cursos\udemy-csharp\aulas\2SaidaDeDados\obj\Debug\net8.0\ref\2SaidaDeDados.dll
