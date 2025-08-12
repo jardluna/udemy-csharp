@@ -1,0 +1,15 @@
+C:\Users\mathe\Material dos Cursos\udemy-csharp\aulas\04EntradaDeDados\bin\Debug\net8.0\04EntradaDeDados.exe
+C:\Users\mathe\Material dos Cursos\udemy-csharp\aulas\04EntradaDeDados\bin\Debug\net8.0\04EntradaDeDados.deps.json
+C:\Users\mathe\Material dos Cursos\udemy-csharp\aulas\04EntradaDeDados\bin\Debug\net8.0\04EntradaDeDados.runtimeconfig.json
+C:\Users\mathe\Material dos Cursos\udemy-csharp\aulas\04EntradaDeDados\bin\Debug\net8.0\04EntradaDeDados.dll
+C:\Users\mathe\Material dos Cursos\udemy-csharp\aulas\04EntradaDeDados\bin\Debug\net8.0\04EntradaDeDados.pdb
+C:\Users\mathe\Material dos Cursos\udemy-csharp\aulas\04EntradaDeDados\obj\Debug\net8.0\04EntradaDeDados.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mathe\Material dos Cursos\udemy-csharp\aulas\04EntradaDeDados\obj\Debug\net8.0\04EntradaDeDados.AssemblyInfoInputs.cache
+C:\Users\mathe\Material dos Cursos\udemy-csharp\aulas\04EntradaDeDados\obj\Debug\net8.0\04EntradaDeDados.AssemblyInfo.cs
+C:\Users\mathe\Material dos Cursos\udemy-csharp\aulas\04EntradaDeDados\obj\Debug\net8.0\04EntradaDeDados.csproj.CoreCompileInputs.cache
+C:\Users\mathe\Material dos Cursos\udemy-csharp\aulas\04EntradaDeDados\obj\Debug\net8.0\04EntradaDeDados.sourcelink.json
+C:\Users\mathe\Material dos Cursos\udemy-csharp\aulas\04EntradaDeDados\obj\Debug\net8.0\04EntradaDeDados.dll
+C:\Users\mathe\Material dos Cursos\udemy-csharp\aulas\04EntradaDeDados\obj\Debug\net8.0\refint\04EntradaDeDados.dll
+C:\Users\mathe\Material dos Cursos\udemy-csharp\aulas\04EntradaDeDados\obj\Debug\net8.0\04EntradaDeDados.pdb
+C:\Users\mathe\Material dos Cursos\udemy-csharp\aulas\04EntradaDeDados\obj\Debug\net8.0\04EntradaDeDados.genruntimeconfig.cache
+C:\Users\mathe\Material dos Cursos\udemy-csharp\aulas\04EntradaDeDados\obj\Debug\net8.0\ref\04EntradaDeDados.dll
