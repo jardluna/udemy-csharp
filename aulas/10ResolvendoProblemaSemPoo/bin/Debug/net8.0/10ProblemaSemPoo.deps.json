@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "10ProblemaSemPoo/1.0.0": {
+        "runtime": {
+          "10ProblemaSemPoo.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "10ProblemaSemPoo/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
