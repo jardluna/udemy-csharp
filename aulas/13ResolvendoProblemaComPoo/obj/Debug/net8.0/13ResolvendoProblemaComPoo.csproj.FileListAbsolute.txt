@@ -1,0 +1,15 @@
+C:\Users\mathe\Material dos Cursos\udemy-csharp\aulas\13ResolvendoProblemaComPoo\bin\Debug\net8.0\13ResolvendoProblemaComPoo.exe
+C:\Users\mathe\Material dos Cursos\udemy-csharp\aulas\13ResolvendoProblemaComPoo\bin\Debug\net8.0\13ResolvendoProblemaComPoo.deps.json
+C:\Users\mathe\Material dos Cursos\udemy-csharp\aulas\13ResolvendoProblemaComPoo\bin\Debug\net8.0\13ResolvendoProblemaComPoo.runtimeconfig.json
+C:\Users\mathe\Material dos Cursos\udemy-csharp\aulas\13ResolvendoProblemaComPoo\bin\Debug\net8.0\13ResolvendoProblemaComPoo.dll
+C:\Users\mathe\Material dos Cursos\udemy-csharp\aulas\13ResolvendoProblemaComPoo\bin\Debug\net8.0\13ResolvendoProblemaComPoo.pdb
+C:\Users\mathe\Material dos Cursos\udemy-csharp\aulas\13ResolvendoProblemaComPoo\obj\Debug\net8.0\13ResolvendoProblemaComPoo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mathe\Material dos Cursos\udemy-csharp\aulas\13ResolvendoProblemaComPoo\obj\Debug\net8.0\13ResolvendoProblemaComPoo.AssemblyInfoInputs.cache
+C:\Users\mathe\Material dos Cursos\udemy-csharp\aulas\13ResolvendoProblemaComPoo\obj\Debug\net8.0\13ResolvendoProblemaComPoo.AssemblyInfo.cs
+C:\Users\mathe\Material dos Cursos\udemy-csharp\aulas\13ResolvendoProblemaComPoo\obj\Debug\net8.0\13ResolvendoProblemaComPoo.csproj.CoreCompileInputs.cache
+C:\Users\mathe\Material dos Cursos\udemy-csharp\aulas\13ResolvendoProblemaComPoo\obj\Debug\net8.0\13ResolvendoProblemaComPoo.sourcelink.json
+C:\Users\mathe\Material dos Cursos\udemy-csharp\aulas\13ResolvendoProblemaComPoo\obj\Debug\net8.0\13ResolvendoProblemaComPoo.dll
+C:\Users\mathe\Material dos Cursos\udemy-csharp\aulas\13ResolvendoProblemaComPoo\obj\Debug\net8.0\refint\13ResolvendoProblemaComPoo.dll
+C:\Users\mathe\Material dos Cursos\udemy-csharp\aulas\13ResolvendoProblemaComPoo\obj\Debug\net8.0\13ResolvendoProblemaComPoo.pdb
+C:\Users\mathe\Material dos Cursos\udemy-csharp\aulas\13ResolvendoProblemaComPoo\obj\Debug\net8.0\13ResolvendoProblemaComPoo.genruntimeconfig.cache
+C:\Users\mathe\Material dos Cursos\udemy-csharp\aulas\13ResolvendoProblemaComPoo\obj\Debug\net8.0\ref\13ResolvendoProblemaComPoo.dll
