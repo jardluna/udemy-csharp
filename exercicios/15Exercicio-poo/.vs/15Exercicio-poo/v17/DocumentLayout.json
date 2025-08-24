@@ -30,9 +30,9 @@
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\mathe\\Material dos Cursos\\udemy-csharp\\exercicios\\15Exercicio-poo\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
-              "ToolTip": "C:\\Users\\mathe\\Material dos Cursos\\udemy-csharp\\exercicios\\15Exercicio-poo\\Program.cs",
-              "RelativeToolTip": "Program.cs",
-              "ViewState": "AgIAABEAAAAAAAAAAAAgwC8AAAAgAAAAAAAAAA==",
+              "ToolTip": "C:\\Users\\mathe\\Material dos Cursos\\udemy-csharp\\exercicios\\15Exercicio-poo\\Program.cs*",
+              "RelativeToolTip": "Program.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-08-22T23:30:20.153Z",
               "EditorCaption": ""
@@ -47,8 +47,7 @@
               "RelativeToolTip": "Funcionario.cs",
               "ViewState": "AgIAAAMAAAAAAAAAAAAAABQAAAAbAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-23T00:03:05.133Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-08-23T00:03:05.133Z"
             },
             {
               "$type": "Document",
@@ -60,8 +59,7 @@
               "RelativeToolTip": "Retangulo.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-22T23:31:09.981Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-08-22T23:31:09.981Z"
             }
           ]
         }
