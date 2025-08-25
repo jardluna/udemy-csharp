@@ -1,0 +1,15 @@
+C:\Users\mathe\Material dos Cursos\udemy-csharp\aulas\15MembrosEstaticos-parte2\bin\Debug\net8.0\15MembrosEstaticos-parte2.exe
+C:\Users\mathe\Material dos Cursos\udemy-csharp\aulas\15MembrosEstaticos-parte2\bin\Debug\net8.0\15MembrosEstaticos-parte2.deps.json
+C:\Users\mathe\Material dos Cursos\udemy-csharp\aulas\15MembrosEstaticos-parte2\bin\Debug\net8.0\15MembrosEstaticos-parte2.runtimeconfig.json
+C:\Users\mathe\Material dos Cursos\udemy-csharp\aulas\15MembrosEstaticos-parte2\bin\Debug\net8.0\15MembrosEstaticos-parte2.dll
+C:\Users\mathe\Material dos Cursos\udemy-csharp\aulas\15MembrosEstaticos-parte2\bin\Debug\net8.0\15MembrosEstaticos-parte2.pdb
+C:\Users\mathe\Material dos Cursos\udemy-csharp\aulas\15MembrosEstaticos-parte2\obj\Debug\net8.0\15MembrosEstaticos-parte2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mathe\Material dos Cursos\udemy-csharp\aulas\15MembrosEstaticos-parte2\obj\Debug\net8.0\15MembrosEstaticos-parte2.AssemblyInfoInputs.cache
+C:\Users\mathe\Material dos Cursos\udemy-csharp\aulas\15MembrosEstaticos-parte2\obj\Debug\net8.0\15MembrosEstaticos-parte2.AssemblyInfo.cs
+C:\Users\mathe\Material dos Cursos\udemy-csharp\aulas\15MembrosEstaticos-parte2\obj\Debug\net8.0\15MembrosEstaticos-parte2.csproj.CoreCompileInputs.cache
+C:\Users\mathe\Material dos Cursos\udemy-csharp\aulas\15MembrosEstaticos-parte2\obj\Debug\net8.0\15MembrosEstaticos-parte2.sourcelink.json
+C:\Users\mathe\Material dos Cursos\udemy-csharp\aulas\15MembrosEstaticos-parte2\obj\Debug\net8.0\15MembrosEstaticos-parte2.dll
+C:\Users\mathe\Material dos Cursos\udemy-csharp\aulas\15MembrosEstaticos-parte2\obj\Debug\net8.0\refint\15MembrosEstaticos-parte2.dll
+C:\Users\mathe\Material dos Cursos\udemy-csharp\aulas\15MembrosEstaticos-parte2\obj\Debug\net8.0\15MembrosEstaticos-parte2.pdb
+C:\Users\mathe\Material dos Cursos\udemy-csharp\aulas\15MembrosEstaticos-parte2\obj\Debug\net8.0\15MembrosEstaticos-parte2.genruntimeconfig.cache
+C:\Users\mathe\Material dos Cursos\udemy-csharp\aulas\15MembrosEstaticos-parte2\obj\Debug\net8.0\ref\15MembrosEstaticos-parte2.dll

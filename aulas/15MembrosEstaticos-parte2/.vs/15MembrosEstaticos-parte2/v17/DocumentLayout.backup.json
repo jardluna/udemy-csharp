@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\mathe\\Material dos Cursos\\udemy-csharp\\aulas\\15MembrosEstaticos-parte2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{57F627AE-AABD-4503-A5F7-91EA177ED933}|15MembrosEstaticos-parte2.csproj|c:\\users\\mathe\\material dos cursos\\udemy-csharp\\aulas\\15membrosestaticos-parte2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{57F627AE-AABD-4503-A5F7-91EA177ED933}|15MembrosEstaticos-parte2.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{57F627AE-AABD-4503-A5F7-91EA177ED933}|15MembrosEstaticos-parte2.csproj|c:\\users\\mathe\\material dos cursos\\udemy-csharp\\aulas\\15membrosestaticos-parte2\\calculadora.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{57F627AE-AABD-4503-A5F7-91EA177ED933}|15MembrosEstaticos-parte2.csproj|solutionrelative:calculadora.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\mathe\\Material dos Cursos\\udemy-csharp\\aulas\\15MembrosEstaticos-parte2\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\mathe\\Material dos Cursos\\udemy-csharp\\aulas\\15MembrosEstaticos-parte2\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAYAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-24T21:16:29.591Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Calculadora.cs",
+              "DocumentMoniker": "C:\\Users\\mathe\\Material dos Cursos\\udemy-csharp\\aulas\\15MembrosEstaticos-parte2\\Calculadora.cs",
+              "RelativeDocumentMoniker": "Calculadora.cs",
+              "ToolTip": "C:\\Users\\mathe\\Material dos Cursos\\udemy-csharp\\aulas\\15MembrosEstaticos-parte2\\Calculadora.cs",
+              "RelativeToolTip": "Calculadora.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-24T21:19:12.562Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
