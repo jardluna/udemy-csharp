@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\mathe\\Material dos Cursos\\estartando-devs\\aulas\\16Construtores\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2B19DF7C-34BF-4F37-ACBA-24698AF79FCE}|16Construtores.csproj|c:\\users\\mathe\\material dos cursos\\estartando-devs\\aulas\\16construtores\\produto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2B19DF7C-34BF-4F37-ACBA-24698AF79FCE}|16Construtores.csproj|solutionrelative:produto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2B19DF7C-34BF-4F37-ACBA-24698AF79FCE}|16Construtores.csproj|c:\\users\\mathe\\material dos cursos\\estartando-devs\\aulas\\16construtores\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2B19DF7C-34BF-4F37-ACBA-24698AF79FCE}|16Construtores.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\mathe\\Material dos Cursos\\estartando-devs\\aulas\\16Construtores\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\mathe\\Material dos Cursos\\estartando-devs\\aulas\\16Construtores\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAuwB4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-29T21:12:15.698Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Produto.cs",
+              "DocumentMoniker": "C:\\Users\\mathe\\Material dos Cursos\\estartando-devs\\aulas\\16Construtores\\Produto.cs",
+              "RelativeDocumentMoniker": "Produto.cs",
+              "ToolTip": "C:\\Users\\mathe\\Material dos Cursos\\estartando-devs\\aulas\\16Construtores\\Produto.cs",
+              "RelativeToolTip": "Produto.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAIwBoAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-29T21:16:28.7Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

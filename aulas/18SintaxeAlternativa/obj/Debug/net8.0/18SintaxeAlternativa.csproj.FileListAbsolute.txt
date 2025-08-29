@@ -1,0 +1,15 @@
+C:\Users\mathe\Material dos Cursos\udemy-csharp\aulas\18SintaxeAlternativa\bin\Debug\net8.0\18SintaxeAlternativa.exe
+C:\Users\mathe\Material dos Cursos\udemy-csharp\aulas\18SintaxeAlternativa\bin\Debug\net8.0\18SintaxeAlternativa.deps.json
+C:\Users\mathe\Material dos Cursos\udemy-csharp\aulas\18SintaxeAlternativa\bin\Debug\net8.0\18SintaxeAlternativa.runtimeconfig.json
+C:\Users\mathe\Material dos Cursos\udemy-csharp\aulas\18SintaxeAlternativa\bin\Debug\net8.0\18SintaxeAlternativa.dll
+C:\Users\mathe\Material dos Cursos\udemy-csharp\aulas\18SintaxeAlternativa\bin\Debug\net8.0\18SintaxeAlternativa.pdb
+C:\Users\mathe\Material dos Cursos\udemy-csharp\aulas\18SintaxeAlternativa\obj\Debug\net8.0\18SintaxeAlternativa.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mathe\Material dos Cursos\udemy-csharp\aulas\18SintaxeAlternativa\obj\Debug\net8.0\18SintaxeAlternativa.AssemblyInfoInputs.cache
+C:\Users\mathe\Material dos Cursos\udemy-csharp\aulas\18SintaxeAlternativa\obj\Debug\net8.0\18SintaxeAlternativa.AssemblyInfo.cs
+C:\Users\mathe\Material dos Cursos\udemy-csharp\aulas\18SintaxeAlternativa\obj\Debug\net8.0\18SintaxeAlternativa.csproj.CoreCompileInputs.cache
+C:\Users\mathe\Material dos Cursos\udemy-csharp\aulas\18SintaxeAlternativa\obj\Debug\net8.0\18SintaxeAlternativa.sourcelink.json
+C:\Users\mathe\Material dos Cursos\udemy-csharp\aulas\18SintaxeAlternativa\obj\Debug\net8.0\18SintaxeAlternativa.dll
+C:\Users\mathe\Material dos Cursos\udemy-csharp\aulas\18SintaxeAlternativa\obj\Debug\net8.0\refint\18SintaxeAlternativa.dll
+C:\Users\mathe\Material dos Cursos\udemy-csharp\aulas\18SintaxeAlternativa\obj\Debug\net8.0\18SintaxeAlternativa.pdb
+C:\Users\mathe\Material dos Cursos\udemy-csharp\aulas\18SintaxeAlternativa\obj\Debug\net8.0\18SintaxeAlternativa.genruntimeconfig.cache
+C:\Users\mathe\Material dos Cursos\udemy-csharp\aulas\18SintaxeAlternativa\obj\Debug\net8.0\ref\18SintaxeAlternativa.dll

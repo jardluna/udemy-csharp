@@ -1,0 +1,14 @@
+C:\Users\mathe\Material dos Cursos\estartando-devs\aulas\16Construtores\bin\Debug\net8.0\16Construtores.exe
+C:\Users\mathe\Material dos Cursos\estartando-devs\aulas\16Construtores\bin\Debug\net8.0\16Construtores.deps.json
+C:\Users\mathe\Material dos Cursos\estartando-devs\aulas\16Construtores\bin\Debug\net8.0\16Construtores.runtimeconfig.json
+C:\Users\mathe\Material dos Cursos\estartando-devs\aulas\16Construtores\bin\Debug\net8.0\16Construtores.dll
+C:\Users\mathe\Material dos Cursos\estartando-devs\aulas\16Construtores\bin\Debug\net8.0\16Construtores.pdb
+C:\Users\mathe\Material dos Cursos\estartando-devs\aulas\16Construtores\obj\Debug\net8.0\16Construtores.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mathe\Material dos Cursos\estartando-devs\aulas\16Construtores\obj\Debug\net8.0\16Construtores.AssemblyInfoInputs.cache
+C:\Users\mathe\Material dos Cursos\estartando-devs\aulas\16Construtores\obj\Debug\net8.0\16Construtores.AssemblyInfo.cs
+C:\Users\mathe\Material dos Cursos\estartando-devs\aulas\16Construtores\obj\Debug\net8.0\16Construtores.csproj.CoreCompileInputs.cache
+C:\Users\mathe\Material dos Cursos\estartando-devs\aulas\16Construtores\obj\Debug\net8.0\16Construtores.dll
+C:\Users\mathe\Material dos Cursos\estartando-devs\aulas\16Construtores\obj\Debug\net8.0\refint\16Construtores.dll
+C:\Users\mathe\Material dos Cursos\estartando-devs\aulas\16Construtores\obj\Debug\net8.0\16Construtores.pdb
+C:\Users\mathe\Material dos Cursos\estartando-devs\aulas\16Construtores\obj\Debug\net8.0\16Construtores.genruntimeconfig.cache
+C:\Users\mathe\Material dos Cursos\estartando-devs\aulas\16Construtores\obj\Debug\net8.0\ref\16Construtores.dll
