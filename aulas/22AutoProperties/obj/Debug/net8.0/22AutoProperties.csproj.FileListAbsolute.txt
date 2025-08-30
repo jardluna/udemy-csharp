@@ -1,0 +1,15 @@
+C:\Users\mathe\Material dos Cursos\udemy-csharp\aulas\22AutoProperties\obj\Debug\net8.0\22AutoProperties.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mathe\Material dos Cursos\udemy-csharp\aulas\22AutoProperties\obj\Debug\net8.0\22AutoProperties.AssemblyInfoInputs.cache
+C:\Users\mathe\Material dos Cursos\udemy-csharp\aulas\22AutoProperties\obj\Debug\net8.0\22AutoProperties.AssemblyInfo.cs
+C:\Users\mathe\Material dos Cursos\udemy-csharp\aulas\22AutoProperties\obj\Debug\net8.0\22AutoProperties.csproj.CoreCompileInputs.cache
+C:\Users\mathe\Material dos Cursos\udemy-csharp\aulas\22AutoProperties\obj\Debug\net8.0\22AutoProperties.sourcelink.json
+C:\Users\mathe\Material dos Cursos\udemy-csharp\aulas\22AutoProperties\bin\Debug\net8.0\22AutoProperties.exe
+C:\Users\mathe\Material dos Cursos\udemy-csharp\aulas\22AutoProperties\bin\Debug\net8.0\22AutoProperties.deps.json
+C:\Users\mathe\Material dos Cursos\udemy-csharp\aulas\22AutoProperties\bin\Debug\net8.0\22AutoProperties.runtimeconfig.json
+C:\Users\mathe\Material dos Cursos\udemy-csharp\aulas\22AutoProperties\bin\Debug\net8.0\22AutoProperties.dll
+C:\Users\mathe\Material dos Cursos\udemy-csharp\aulas\22AutoProperties\bin\Debug\net8.0\22AutoProperties.pdb
+C:\Users\mathe\Material dos Cursos\udemy-csharp\aulas\22AutoProperties\obj\Debug\net8.0\22AutoProperties.dll
+C:\Users\mathe\Material dos Cursos\udemy-csharp\aulas\22AutoProperties\obj\Debug\net8.0\refint\22AutoProperties.dll
+C:\Users\mathe\Material dos Cursos\udemy-csharp\aulas\22AutoProperties\obj\Debug\net8.0\22AutoProperties.pdb
+C:\Users\mathe\Material dos Cursos\udemy-csharp\aulas\22AutoProperties\obj\Debug\net8.0\22AutoProperties.genruntimeconfig.cache
+C:\Users\mathe\Material dos Cursos\udemy-csharp\aulas\22AutoProperties\obj\Debug\net8.0\ref\22AutoProperties.dll

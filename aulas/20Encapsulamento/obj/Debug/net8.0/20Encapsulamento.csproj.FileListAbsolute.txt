@@ -1,0 +1,15 @@
+C:\Users\mathe\Material dos Cursos\udemy-csharp\aulas\20Encapsulamento\bin\Debug\net8.0\20Encapsulamento.exe
+C:\Users\mathe\Material dos Cursos\udemy-csharp\aulas\20Encapsulamento\bin\Debug\net8.0\20Encapsulamento.deps.json
+C:\Users\mathe\Material dos Cursos\udemy-csharp\aulas\20Encapsulamento\bin\Debug\net8.0\20Encapsulamento.runtimeconfig.json
+C:\Users\mathe\Material dos Cursos\udemy-csharp\aulas\20Encapsulamento\bin\Debug\net8.0\20Encapsulamento.dll
+C:\Users\mathe\Material dos Cursos\udemy-csharp\aulas\20Encapsulamento\bin\Debug\net8.0\20Encapsulamento.pdb
+C:\Users\mathe\Material dos Cursos\udemy-csharp\aulas\20Encapsulamento\obj\Debug\net8.0\20Encapsulamento.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mathe\Material dos Cursos\udemy-csharp\aulas\20Encapsulamento\obj\Debug\net8.0\20Encapsulamento.AssemblyInfoInputs.cache
+C:\Users\mathe\Material dos Cursos\udemy-csharp\aulas\20Encapsulamento\obj\Debug\net8.0\20Encapsulamento.AssemblyInfo.cs
+C:\Users\mathe\Material dos Cursos\udemy-csharp\aulas\20Encapsulamento\obj\Debug\net8.0\20Encapsulamento.csproj.CoreCompileInputs.cache
+C:\Users\mathe\Material dos Cursos\udemy-csharp\aulas\20Encapsulamento\obj\Debug\net8.0\20Encapsulamento.sourcelink.json
+C:\Users\mathe\Material dos Cursos\udemy-csharp\aulas\20Encapsulamento\obj\Debug\net8.0\20Encapsulamento.dll
+C:\Users\mathe\Material dos Cursos\udemy-csharp\aulas\20Encapsulamento\obj\Debug\net8.0\refint\20Encapsulamento.dll
+C:\Users\mathe\Material dos Cursos\udemy-csharp\aulas\20Encapsulamento\obj\Debug\net8.0\20Encapsulamento.pdb
+C:\Users\mathe\Material dos Cursos\udemy-csharp\aulas\20Encapsulamento\obj\Debug\net8.0\20Encapsulamento.genruntimeconfig.cache
+C:\Users\mathe\Material dos Cursos\udemy-csharp\aulas\20Encapsulamento\obj\Debug\net8.0\ref\20Encapsulamento.dll

@@ -1,0 +1,15 @@
+C:\Users\mathe\Material dos Cursos\udemy-csharp\aulas\19PalavraThis\bin\Debug\net8.0\19PalavraThis.exe
+C:\Users\mathe\Material dos Cursos\udemy-csharp\aulas\19PalavraThis\bin\Debug\net8.0\19PalavraThis.deps.json
+C:\Users\mathe\Material dos Cursos\udemy-csharp\aulas\19PalavraThis\bin\Debug\net8.0\19PalavraThis.runtimeconfig.json
+C:\Users\mathe\Material dos Cursos\udemy-csharp\aulas\19PalavraThis\bin\Debug\net8.0\19PalavraThis.dll
+C:\Users\mathe\Material dos Cursos\udemy-csharp\aulas\19PalavraThis\bin\Debug\net8.0\19PalavraThis.pdb
+C:\Users\mathe\Material dos Cursos\udemy-csharp\aulas\19PalavraThis\obj\Debug\net8.0\19PalavraThis.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mathe\Material dos Cursos\udemy-csharp\aulas\19PalavraThis\obj\Debug\net8.0\19PalavraThis.AssemblyInfoInputs.cache
+C:\Users\mathe\Material dos Cursos\udemy-csharp\aulas\19PalavraThis\obj\Debug\net8.0\19PalavraThis.AssemblyInfo.cs
+C:\Users\mathe\Material dos Cursos\udemy-csharp\aulas\19PalavraThis\obj\Debug\net8.0\19PalavraThis.csproj.CoreCompileInputs.cache
+C:\Users\mathe\Material dos Cursos\udemy-csharp\aulas\19PalavraThis\obj\Debug\net8.0\19PalavraThis.sourcelink.json
+C:\Users\mathe\Material dos Cursos\udemy-csharp\aulas\19PalavraThis\obj\Debug\net8.0\19PalavraThis.dll
+C:\Users\mathe\Material dos Cursos\udemy-csharp\aulas\19PalavraThis\obj\Debug\net8.0\refint\19PalavraThis.dll
+C:\Users\mathe\Material dos Cursos\udemy-csharp\aulas\19PalavraThis\obj\Debug\net8.0\19PalavraThis.pdb
+C:\Users\mathe\Material dos Cursos\udemy-csharp\aulas\19PalavraThis\obj\Debug\net8.0\19PalavraThis.genruntimeconfig.cache
+C:\Users\mathe\Material dos Cursos\udemy-csharp\aulas\19PalavraThis\obj\Debug\net8.0\ref\19PalavraThis.dll
