@@ -1,6 +1,6 @@
 ﻿using _18Exercicio_poo;
 using System.Globalization;
-Banco bc = new Banco();
+Banco bc;
 
 Console.WriteLine("---------------------------------------------------------------------------");
 
@@ -11,11 +11,10 @@ var nomeTitular = Console.ReadLine();
 Console.Write("Haverá depósito inicial (s/n): ");
 var depSimOuNao = char.Parse(Console.ReadLine());
 
-var depositoInicial = 0.0;
 if (depSimOuNao == 's' || depSimOuNao == 'S')
 {
     Console.Write("Entre com o valor do depósito inicial: ");
-    depositoInicial = double.Parse(Console.ReadLine(), CultureInfo.InvariantCulture);
+    var depositoInicial = double.Parse(Console.ReadLine(), CultureInfo.InvariantCulture);
     bc = new Banco(numeroConta, nomeTitular, depositoInicial);
 }
 else

@@ -8,7 +8,6 @@ namespace _18Exercicio_poo
         public string NomeTitular { get; set; }
         public double SaldoConta { get; private set; }
 
-        public Banco() { }
         public Banco(int numeroConta, string nomeTitular)
         {
             NumeroConta = numeroConta;

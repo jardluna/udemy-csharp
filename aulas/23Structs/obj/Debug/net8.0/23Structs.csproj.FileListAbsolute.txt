@@ -1,0 +1,15 @@
+C:\Users\mathe\Material dos Cursos\udemy-csharp\aulas\23Structs\obj\Debug\net8.0\23Structs.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mathe\Material dos Cursos\udemy-csharp\aulas\23Structs\obj\Debug\net8.0\23Structs.AssemblyInfoInputs.cache
+C:\Users\mathe\Material dos Cursos\udemy-csharp\aulas\23Structs\obj\Debug\net8.0\23Structs.AssemblyInfo.cs
+C:\Users\mathe\Material dos Cursos\udemy-csharp\aulas\23Structs\obj\Debug\net8.0\23Structs.csproj.CoreCompileInputs.cache
+C:\Users\mathe\Material dos Cursos\udemy-csharp\aulas\23Structs\obj\Debug\net8.0\23Structs.sourcelink.json
+C:\Users\mathe\Material dos Cursos\udemy-csharp\aulas\23Structs\bin\Debug\net8.0\23Structs.exe
+C:\Users\mathe\Material dos Cursos\udemy-csharp\aulas\23Structs\bin\Debug\net8.0\23Structs.deps.json
+C:\Users\mathe\Material dos Cursos\udemy-csharp\aulas\23Structs\bin\Debug\net8.0\23Structs.runtimeconfig.json
+C:\Users\mathe\Material dos Cursos\udemy-csharp\aulas\23Structs\bin\Debug\net8.0\23Structs.dll
+C:\Users\mathe\Material dos Cursos\udemy-csharp\aulas\23Structs\bin\Debug\net8.0\23Structs.pdb
+C:\Users\mathe\Material dos Cursos\udemy-csharp\aulas\23Structs\obj\Debug\net8.0\23Structs.dll
+C:\Users\mathe\Material dos Cursos\udemy-csharp\aulas\23Structs\obj\Debug\net8.0\refint\23Structs.dll
+C:\Users\mathe\Material dos Cursos\udemy-csharp\aulas\23Structs\obj\Debug\net8.0\23Structs.pdb
+C:\Users\mathe\Material dos Cursos\udemy-csharp\aulas\23Structs\obj\Debug\net8.0\23Structs.genruntimeconfig.cache
+C:\Users\mathe\Material dos Cursos\udemy-csharp\aulas\23Structs\obj\Debug\net8.0\ref\23Structs.dll
