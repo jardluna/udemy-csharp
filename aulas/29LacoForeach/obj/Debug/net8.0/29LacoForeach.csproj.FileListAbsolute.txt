@@ -1,0 +1,15 @@
+C:\Users\mathe\Material dos Cursos\udemy-csharp\aulas\29LacoForeach\bin\Debug\net8.0\29LacoForeach.exe
+C:\Users\mathe\Material dos Cursos\udemy-csharp\aulas\29LacoForeach\bin\Debug\net8.0\29LacoForeach.deps.json
+C:\Users\mathe\Material dos Cursos\udemy-csharp\aulas\29LacoForeach\bin\Debug\net8.0\29LacoForeach.runtimeconfig.json
+C:\Users\mathe\Material dos Cursos\udemy-csharp\aulas\29LacoForeach\bin\Debug\net8.0\29LacoForeach.dll
+C:\Users\mathe\Material dos Cursos\udemy-csharp\aulas\29LacoForeach\bin\Debug\net8.0\29LacoForeach.pdb
+C:\Users\mathe\Material dos Cursos\udemy-csharp\aulas\29LacoForeach\obj\Debug\net8.0\29LacoForeach.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mathe\Material dos Cursos\udemy-csharp\aulas\29LacoForeach\obj\Debug\net8.0\29LacoForeach.AssemblyInfoInputs.cache
+C:\Users\mathe\Material dos Cursos\udemy-csharp\aulas\29LacoForeach\obj\Debug\net8.0\29LacoForeach.AssemblyInfo.cs
+C:\Users\mathe\Material dos Cursos\udemy-csharp\aulas\29LacoForeach\obj\Debug\net8.0\29LacoForeach.csproj.CoreCompileInputs.cache
+C:\Users\mathe\Material dos Cursos\udemy-csharp\aulas\29LacoForeach\obj\Debug\net8.0\29LacoForeach.sourcelink.json
+C:\Users\mathe\Material dos Cursos\udemy-csharp\aulas\29LacoForeach\obj\Debug\net8.0\29LacoForeach.dll
+C:\Users\mathe\Material dos Cursos\udemy-csharp\aulas\29LacoForeach\obj\Debug\net8.0\refint\29LacoForeach.dll
+C:\Users\mathe\Material dos Cursos\udemy-csharp\aulas\29LacoForeach\obj\Debug\net8.0\29LacoForeach.pdb
+C:\Users\mathe\Material dos Cursos\udemy-csharp\aulas\29LacoForeach\obj\Debug\net8.0\29LacoForeach.genruntimeconfig.cache
+C:\Users\mathe\Material dos Cursos\udemy-csharp\aulas\29LacoForeach\obj\Debug\net8.0\ref\29LacoForeach.dll
