@@ -37,22 +37,12 @@ string elemento1 = lista.Find(x => x[0] == 'A'); //Expresão lambda
 
 Console.WriteLine($"Primeiro com 'A': {elemento1}");
 
-static bool TesteFind(string s)
-{
-    return s[0] == 'A';
-}
-
 Console.WriteLine("---------------------------------------------------------------------------------------------------");
 
 //FindLast - Encontrar o último elemento da lista que satisfaça um predicado
 string elemento2 = lista.FindLast(x => x[0] == 'A'); //Expresão lambda
 
 Console.WriteLine($"Último com 'A': {elemento2}");
-
-static bool TesteFindLast(string s)
-{
-    return s[0] == 'A';
-}
 
 Console.WriteLine("---------------------------------------------------------------------------------------------------");
 
