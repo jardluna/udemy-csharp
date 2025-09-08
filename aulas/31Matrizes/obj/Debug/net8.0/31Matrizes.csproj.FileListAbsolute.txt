@@ -1,0 +1,15 @@
+C:\Users\mathe\Material dos Cursos\udemy-csharp\aulas\31Matrizes\bin\Debug\net8.0\31Matrizes.exe
+C:\Users\mathe\Material dos Cursos\udemy-csharp\aulas\31Matrizes\bin\Debug\net8.0\31Matrizes.deps.json
+C:\Users\mathe\Material dos Cursos\udemy-csharp\aulas\31Matrizes\bin\Debug\net8.0\31Matrizes.runtimeconfig.json
+C:\Users\mathe\Material dos Cursos\udemy-csharp\aulas\31Matrizes\bin\Debug\net8.0\31Matrizes.dll
+C:\Users\mathe\Material dos Cursos\udemy-csharp\aulas\31Matrizes\bin\Debug\net8.0\31Matrizes.pdb
+C:\Users\mathe\Material dos Cursos\udemy-csharp\aulas\31Matrizes\obj\Debug\net8.0\31Matrizes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mathe\Material dos Cursos\udemy-csharp\aulas\31Matrizes\obj\Debug\net8.0\31Matrizes.AssemblyInfoInputs.cache
+C:\Users\mathe\Material dos Cursos\udemy-csharp\aulas\31Matrizes\obj\Debug\net8.0\31Matrizes.AssemblyInfo.cs
+C:\Users\mathe\Material dos Cursos\udemy-csharp\aulas\31Matrizes\obj\Debug\net8.0\31Matrizes.csproj.CoreCompileInputs.cache
+C:\Users\mathe\Material dos Cursos\udemy-csharp\aulas\31Matrizes\obj\Debug\net8.0\31Matrizes.sourcelink.json
+C:\Users\mathe\Material dos Cursos\udemy-csharp\aulas\31Matrizes\obj\Debug\net8.0\31Matrizes.dll
+C:\Users\mathe\Material dos Cursos\udemy-csharp\aulas\31Matrizes\obj\Debug\net8.0\refint\31Matrizes.dll
+C:\Users\mathe\Material dos Cursos\udemy-csharp\aulas\31Matrizes\obj\Debug\net8.0\31Matrizes.pdb
+C:\Users\mathe\Material dos Cursos\udemy-csharp\aulas\31Matrizes\obj\Debug\net8.0\31Matrizes.genruntimeconfig.cache
+C:\Users\mathe\Material dos Cursos\udemy-csharp\aulas\31Matrizes\obj\Debug\net8.0\ref\31Matrizes.dll
