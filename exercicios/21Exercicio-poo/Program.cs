@@ -12,7 +12,6 @@ int[,] matriz = new int[linha, coluna];
 for (int l = 0; l < linha; l++)
 {
     string[] vetor = Console.ReadLine().Split(' ');
-
     for (int c = 0; c < coluna; c++)
     {
         matriz[l, c] = int.Parse(vetor[c]);
@@ -41,23 +40,23 @@ for (int l = 0; l < linha; l++)
         if (matriz[l, c] == encoNume)
         {
             Console.WriteLine($"*** Posição [{l + 1},{c + 1}] ***");
-
-            if (c > 0) //Esquerda
+            //Valor da esquerda
+            if (c > 0)
             {
                 Console.WriteLine($"Esquerda: {matriz[l, c - 1]}");
             }
-
-            if (l < linha - 1) //Baixo
+            //Valor abaixo
+            if (l < linha - 1)
             {
                 Console.WriteLine($"Abaixo: {matriz[l + 1, c]}");
             }
-
-            if (c < coluna - 1) //Direita
+            //Valor da direita
+            if (c < coluna - 1)
             {
                 Console.WriteLine($"Direita: {matriz[l, c + 1]}");
             }
-
-            if (l > 0) //Cima
+            //Valor acima
+            if (l > 0)
             {
                 Console.WriteLine($"Acima: {matriz[l - 1, c]}");
             }
