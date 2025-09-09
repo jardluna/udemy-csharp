@@ -1,0 +1,15 @@
+C:\Users\mathe\Material dos Cursos\udemy-csharp\aulas\32Switch-case\bin\Debug\net8.0\32Switch-case.exe
+C:\Users\mathe\Material dos Cursos\udemy-csharp\aulas\32Switch-case\bin\Debug\net8.0\32Switch-case.deps.json
+C:\Users\mathe\Material dos Cursos\udemy-csharp\aulas\32Switch-case\bin\Debug\net8.0\32Switch-case.runtimeconfig.json
+C:\Users\mathe\Material dos Cursos\udemy-csharp\aulas\32Switch-case\bin\Debug\net8.0\32Switch-case.dll
+C:\Users\mathe\Material dos Cursos\udemy-csharp\aulas\32Switch-case\bin\Debug\net8.0\32Switch-case.pdb
+C:\Users\mathe\Material dos Cursos\udemy-csharp\aulas\32Switch-case\obj\Debug\net8.0\32Switch-case.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mathe\Material dos Cursos\udemy-csharp\aulas\32Switch-case\obj\Debug\net8.0\32Switch-case.AssemblyInfoInputs.cache
+C:\Users\mathe\Material dos Cursos\udemy-csharp\aulas\32Switch-case\obj\Debug\net8.0\32Switch-case.AssemblyInfo.cs
+C:\Users\mathe\Material dos Cursos\udemy-csharp\aulas\32Switch-case\obj\Debug\net8.0\32Switch-case.csproj.CoreCompileInputs.cache
+C:\Users\mathe\Material dos Cursos\udemy-csharp\aulas\32Switch-case\obj\Debug\net8.0\32Switch-case.sourcelink.json
+C:\Users\mathe\Material dos Cursos\udemy-csharp\aulas\32Switch-case\obj\Debug\net8.0\32Switch-case.dll
+C:\Users\mathe\Material dos Cursos\udemy-csharp\aulas\32Switch-case\obj\Debug\net8.0\refint\32Switch-case.dll
+C:\Users\mathe\Material dos Cursos\udemy-csharp\aulas\32Switch-case\obj\Debug\net8.0\32Switch-case.pdb
+C:\Users\mathe\Material dos Cursos\udemy-csharp\aulas\32Switch-case\obj\Debug\net8.0\32Switch-case.genruntimeconfig.cache
+C:\Users\mathe\Material dos Cursos\udemy-csharp\aulas\32Switch-case\obj\Debug\net8.0\ref\32Switch-case.dll
