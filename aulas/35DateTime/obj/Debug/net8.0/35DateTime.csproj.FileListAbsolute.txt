@@ -1,0 +1,15 @@
+C:\Users\mathe\Material dos Cursos\udemy-csharp\aulas\35DateTime\bin\Debug\net8.0\35DateTime.exe
+C:\Users\mathe\Material dos Cursos\udemy-csharp\aulas\35DateTime\bin\Debug\net8.0\35DateTime.deps.json
+C:\Users\mathe\Material dos Cursos\udemy-csharp\aulas\35DateTime\bin\Debug\net8.0\35DateTime.runtimeconfig.json
+C:\Users\mathe\Material dos Cursos\udemy-csharp\aulas\35DateTime\bin\Debug\net8.0\35DateTime.dll
+C:\Users\mathe\Material dos Cursos\udemy-csharp\aulas\35DateTime\bin\Debug\net8.0\35DateTime.pdb
+C:\Users\mathe\Material dos Cursos\udemy-csharp\aulas\35DateTime\obj\Debug\net8.0\35DateTime.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mathe\Material dos Cursos\udemy-csharp\aulas\35DateTime\obj\Debug\net8.0\35DateTime.AssemblyInfoInputs.cache
+C:\Users\mathe\Material dos Cursos\udemy-csharp\aulas\35DateTime\obj\Debug\net8.0\35DateTime.AssemblyInfo.cs
+C:\Users\mathe\Material dos Cursos\udemy-csharp\aulas\35DateTime\obj\Debug\net8.0\35DateTime.csproj.CoreCompileInputs.cache
+C:\Users\mathe\Material dos Cursos\udemy-csharp\aulas\35DateTime\obj\Debug\net8.0\35DateTime.sourcelink.json
+C:\Users\mathe\Material dos Cursos\udemy-csharp\aulas\35DateTime\obj\Debug\net8.0\35DateTime.dll
+C:\Users\mathe\Material dos Cursos\udemy-csharp\aulas\35DateTime\obj\Debug\net8.0\refint\35DateTime.dll
+C:\Users\mathe\Material dos Cursos\udemy-csharp\aulas\35DateTime\obj\Debug\net8.0\35DateTime.pdb
+C:\Users\mathe\Material dos Cursos\udemy-csharp\aulas\35DateTime\obj\Debug\net8.0\35DateTime.genruntimeconfig.cache
+C:\Users\mathe\Material dos Cursos\udemy-csharp\aulas\35DateTime\obj\Debug\net8.0\ref\35DateTime.dll
