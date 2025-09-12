@@ -1,0 +1,15 @@
+C:\Users\mathe\Material dos Cursos\udemy-csharp\aulas\37OperacoesComDateTime\bin\Debug\net8.0\37OperacoesComDateTime.exe
+C:\Users\mathe\Material dos Cursos\udemy-csharp\aulas\37OperacoesComDateTime\bin\Debug\net8.0\37OperacoesComDateTime.deps.json
+C:\Users\mathe\Material dos Cursos\udemy-csharp\aulas\37OperacoesComDateTime\bin\Debug\net8.0\37OperacoesComDateTime.runtimeconfig.json
+C:\Users\mathe\Material dos Cursos\udemy-csharp\aulas\37OperacoesComDateTime\bin\Debug\net8.0\37OperacoesComDateTime.dll
+C:\Users\mathe\Material dos Cursos\udemy-csharp\aulas\37OperacoesComDateTime\bin\Debug\net8.0\37OperacoesComDateTime.pdb
+C:\Users\mathe\Material dos Cursos\udemy-csharp\aulas\37OperacoesComDateTime\obj\Debug\net8.0\37OperacoesComDateTime.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mathe\Material dos Cursos\udemy-csharp\aulas\37OperacoesComDateTime\obj\Debug\net8.0\37OperacoesComDateTime.AssemblyInfoInputs.cache
+C:\Users\mathe\Material dos Cursos\udemy-csharp\aulas\37OperacoesComDateTime\obj\Debug\net8.0\37OperacoesComDateTime.AssemblyInfo.cs
+C:\Users\mathe\Material dos Cursos\udemy-csharp\aulas\37OperacoesComDateTime\obj\Debug\net8.0\37OperacoesComDateTime.csproj.CoreCompileInputs.cache
+C:\Users\mathe\Material dos Cursos\udemy-csharp\aulas\37OperacoesComDateTime\obj\Debug\net8.0\37OperacoesComDateTime.sourcelink.json
+C:\Users\mathe\Material dos Cursos\udemy-csharp\aulas\37OperacoesComDateTime\obj\Debug\net8.0\37OperacoesComDateTime.dll
+C:\Users\mathe\Material dos Cursos\udemy-csharp\aulas\37OperacoesComDateTime\obj\Debug\net8.0\refint\37OperacoesComDateTime.dll
+C:\Users\mathe\Material dos Cursos\udemy-csharp\aulas\37OperacoesComDateTime\obj\Debug\net8.0\37OperacoesComDateTime.pdb
+C:\Users\mathe\Material dos Cursos\udemy-csharp\aulas\37OperacoesComDateTime\obj\Debug\net8.0\37OperacoesComDateTime.genruntimeconfig.cache
+C:\Users\mathe\Material dos Cursos\udemy-csharp\aulas\37OperacoesComDateTime\obj\Debug\net8.0\ref\37OperacoesComDateTime.dll
