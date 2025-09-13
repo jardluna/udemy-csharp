@@ -1,0 +1,15 @@
+C:\Users\mathe\Material dos Cursos\udemy-csharp\aulas\38PropriedadesEFormatacoesEOperacoesComTimeSpan\bin\Debug\net8.0\38PropriedadesEFormatacoesEOperacoesComTimeSpan.exe
+C:\Users\mathe\Material dos Cursos\udemy-csharp\aulas\38PropriedadesEFormatacoesEOperacoesComTimeSpan\bin\Debug\net8.0\38PropriedadesEFormatacoesEOperacoesComTimeSpan.deps.json
+C:\Users\mathe\Material dos Cursos\udemy-csharp\aulas\38PropriedadesEFormatacoesEOperacoesComTimeSpan\bin\Debug\net8.0\38PropriedadesEFormatacoesEOperacoesComTimeSpan.runtimeconfig.json
+C:\Users\mathe\Material dos Cursos\udemy-csharp\aulas\38PropriedadesEFormatacoesEOperacoesComTimeSpan\bin\Debug\net8.0\38PropriedadesEFormatacoesEOperacoesComTimeSpan.dll
+C:\Users\mathe\Material dos Cursos\udemy-csharp\aulas\38PropriedadesEFormatacoesEOperacoesComTimeSpan\bin\Debug\net8.0\38PropriedadesEFormatacoesEOperacoesComTimeSpan.pdb
+C:\Users\mathe\Material dos Cursos\udemy-csharp\aulas\38PropriedadesEFormatacoesEOperacoesComTimeSpan\obj\Debug\net8.0\38PropriedadesEFormatacoesEOperacoesComTimeSpan.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mathe\Material dos Cursos\udemy-csharp\aulas\38PropriedadesEFormatacoesEOperacoesComTimeSpan\obj\Debug\net8.0\38PropriedadesEFormatacoesEOperacoesComTimeSpan.AssemblyInfoInputs.cache
+C:\Users\mathe\Material dos Cursos\udemy-csharp\aulas\38PropriedadesEFormatacoesEOperacoesComTimeSpan\obj\Debug\net8.0\38PropriedadesEFormatacoesEOperacoesComTimeSpan.AssemblyInfo.cs
+C:\Users\mathe\Material dos Cursos\udemy-csharp\aulas\38PropriedadesEFormatacoesEOperacoesComTimeSpan\obj\Debug\net8.0\38PropriedadesEFormatacoesEOperacoesComTimeSpan.csproj.CoreCompileInputs.cache
+C:\Users\mathe\Material dos Cursos\udemy-csharp\aulas\38PropriedadesEFormatacoesEOperacoesComTimeSpan\obj\Debug\net8.0\38PropriedadesEFormatacoesEOperacoesComTimeSpan.sourcelink.json
+C:\Users\mathe\Material dos Cursos\udemy-csharp\aulas\38PropriedadesEFormatacoesEOperacoesComTimeSpan\obj\Debug\net8.0\38PropriedadesEFormatacoesEOperacoesComTimeSpan.dll
+C:\Users\mathe\Material dos Cursos\udemy-csharp\aulas\38PropriedadesEFormatacoesEOperacoesComTimeSpan\obj\Debug\net8.0\refint\38PropriedadesEFormatacoesEOperacoesComTimeSpan.dll
+C:\Users\mathe\Material dos Cursos\udemy-csharp\aulas\38PropriedadesEFormatacoesEOperacoesComTimeSpan\obj\Debug\net8.0\38PropriedadesEFormatacoesEOperacoesComTimeSpan.pdb
+C:\Users\mathe\Material dos Cursos\udemy-csharp\aulas\38PropriedadesEFormatacoesEOperacoesComTimeSpan\obj\Debug\net8.0\38PropriedadesEFormatacoesEOperacoesComTimeSpan.genruntimeconfig.cache
+C:\Users\mathe\Material dos Cursos\udemy-csharp\aulas\38PropriedadesEFormatacoesEOperacoesComTimeSpan\obj\Debug\net8.0\ref\38PropriedadesEFormatacoesEOperacoesComTimeSpan.dll
