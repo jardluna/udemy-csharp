@@ -1,0 +1,15 @@
+C:\Users\mathe\Material dos Cursos\udemy-csharp\aulas\39DateTimeKind\bin\Debug\net8.0\39DateTimeKind.exe
+C:\Users\mathe\Material dos Cursos\udemy-csharp\aulas\39DateTimeKind\bin\Debug\net8.0\39DateTimeKind.deps.json
+C:\Users\mathe\Material dos Cursos\udemy-csharp\aulas\39DateTimeKind\bin\Debug\net8.0\39DateTimeKind.runtimeconfig.json
+C:\Users\mathe\Material dos Cursos\udemy-csharp\aulas\39DateTimeKind\bin\Debug\net8.0\39DateTimeKind.dll
+C:\Users\mathe\Material dos Cursos\udemy-csharp\aulas\39DateTimeKind\bin\Debug\net8.0\39DateTimeKind.pdb
+C:\Users\mathe\Material dos Cursos\udemy-csharp\aulas\39DateTimeKind\obj\Debug\net8.0\39DateTimeKind.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mathe\Material dos Cursos\udemy-csharp\aulas\39DateTimeKind\obj\Debug\net8.0\39DateTimeKind.AssemblyInfoInputs.cache
+C:\Users\mathe\Material dos Cursos\udemy-csharp\aulas\39DateTimeKind\obj\Debug\net8.0\39DateTimeKind.AssemblyInfo.cs
+C:\Users\mathe\Material dos Cursos\udemy-csharp\aulas\39DateTimeKind\obj\Debug\net8.0\39DateTimeKind.csproj.CoreCompileInputs.cache
+C:\Users\mathe\Material dos Cursos\udemy-csharp\aulas\39DateTimeKind\obj\Debug\net8.0\39DateTimeKind.sourcelink.json
+C:\Users\mathe\Material dos Cursos\udemy-csharp\aulas\39DateTimeKind\obj\Debug\net8.0\39DateTimeKind.dll
+C:\Users\mathe\Material dos Cursos\udemy-csharp\aulas\39DateTimeKind\obj\Debug\net8.0\refint\39DateTimeKind.dll
+C:\Users\mathe\Material dos Cursos\udemy-csharp\aulas\39DateTimeKind\obj\Debug\net8.0\39DateTimeKind.pdb
+C:\Users\mathe\Material dos Cursos\udemy-csharp\aulas\39DateTimeKind\obj\Debug\net8.0\39DateTimeKind.genruntimeconfig.cache
+C:\Users\mathe\Material dos Cursos\udemy-csharp\aulas\39DateTimeKind\obj\Debug\net8.0\ref\39DateTimeKind.dll
