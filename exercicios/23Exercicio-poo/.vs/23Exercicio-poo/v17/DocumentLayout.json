@@ -1,0 +1,84 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\mathe\\Material dos Cursos\\udemy-csharp\\exercicios\\23Exercicio-poo\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{719B536E-CC8A-49E2-A1D4-BC859883AA99}|23Exercicio-poo.csproj|c:\\users\\mathe\\material dos cursos\\udemy-csharp\\exercicios\\23exercicio-poo\\entities\\comment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{719B536E-CC8A-49E2-A1D4-BC859883AA99}|23Exercicio-poo.csproj|solutionrelative:entities\\comment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{719B536E-CC8A-49E2-A1D4-BC859883AA99}|23Exercicio-poo.csproj|c:\\users\\mathe\\material dos cursos\\udemy-csharp\\exercicios\\23exercicio-poo\\entities\\post.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{719B536E-CC8A-49E2-A1D4-BC859883AA99}|23Exercicio-poo.csproj|solutionrelative:entities\\post.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{719B536E-CC8A-49E2-A1D4-BC859883AA99}|23Exercicio-poo.csproj|c:\\users\\mathe\\material dos cursos\\udemy-csharp\\exercicios\\23exercicio-poo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{719B536E-CC8A-49E2-A1D4-BC859883AA99}|23Exercicio-poo.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\mathe\\Material dos Cursos\\udemy-csharp\\exercicios\\23Exercicio-poo\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\mathe\\Material dos Cursos\\udemy-csharp\\exercicios\\23Exercicio-poo\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-21T00:24:06.545Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Post.cs",
+              "DocumentMoniker": "C:\\Users\\mathe\\Material dos Cursos\\udemy-csharp\\exercicios\\23Exercicio-poo\\Entities\\Post.cs",
+              "RelativeDocumentMoniker": "Entities\\Post.cs",
+              "ToolTip": "C:\\Users\\mathe\\Material dos Cursos\\udemy-csharp\\exercicios\\23Exercicio-poo\\Entities\\Post.cs",
+              "RelativeToolTip": "Entities\\Post.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAIwCAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-21T00:23:41.968Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Comment.cs",
+              "DocumentMoniker": "C:\\Users\\mathe\\Material dos Cursos\\udemy-csharp\\exercicios\\23Exercicio-poo\\Entities\\Comment.cs",
+              "RelativeDocumentMoniker": "Entities\\Comment.cs",
+              "ToolTip": "C:\\Users\\mathe\\Material dos Cursos\\udemy-csharp\\exercicios\\23Exercicio-poo\\Entities\\Comment.cs",
+              "RelativeToolTip": "Entities\\Comment.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-21T00:24:08.031Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,15 @@
+C:\Users\mathe\Material dos Cursos\udemy-csharp\aulas\42StringBuilder\bin\Debug\net8.0\42StringBuilder.exe
+C:\Users\mathe\Material dos Cursos\udemy-csharp\aulas\42StringBuilder\bin\Debug\net8.0\42StringBuilder.deps.json
+C:\Users\mathe\Material dos Cursos\udemy-csharp\aulas\42StringBuilder\bin\Debug\net8.0\42StringBuilder.runtimeconfig.json
+C:\Users\mathe\Material dos Cursos\udemy-csharp\aulas\42StringBuilder\bin\Debug\net8.0\42StringBuilder.dll
+C:\Users\mathe\Material dos Cursos\udemy-csharp\aulas\42StringBuilder\bin\Debug\net8.0\42StringBuilder.pdb
+C:\Users\mathe\Material dos Cursos\udemy-csharp\aulas\42StringBuilder\obj\Debug\net8.0\42StringBuilder.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mathe\Material dos Cursos\udemy-csharp\aulas\42StringBuilder\obj\Debug\net8.0\42StringBuilder.AssemblyInfoInputs.cache
+C:\Users\mathe\Material dos Cursos\udemy-csharp\aulas\42StringBuilder\obj\Debug\net8.0\42StringBuilder.AssemblyInfo.cs
+C:\Users\mathe\Material dos Cursos\udemy-csharp\aulas\42StringBuilder\obj\Debug\net8.0\42StringBuilder.csproj.CoreCompileInputs.cache
+C:\Users\mathe\Material dos Cursos\udemy-csharp\aulas\42StringBuilder\obj\Debug\net8.0\42StringBuilder.sourcelink.json
+C:\Users\mathe\Material dos Cursos\udemy-csharp\aulas\42StringBuilder\obj\Debug\net8.0\42StringBuilder.dll
+C:\Users\mathe\Material dos Cursos\udemy-csharp\aulas\42StringBuilder\obj\Debug\net8.0\refint\42StringBuilder.dll
+C:\Users\mathe\Material dos Cursos\udemy-csharp\aulas\42StringBuilder\obj\Debug\net8.0\42StringBuilder.pdb
+C:\Users\mathe\Material dos Cursos\udemy-csharp\aulas\42StringBuilder\obj\Debug\net8.0\42StringBuilder.genruntimeconfig.cache
+C:\Users\mathe\Material dos Cursos\udemy-csharp\aulas\42StringBuilder\obj\Debug\net8.0\ref\42StringBuilder.dll
