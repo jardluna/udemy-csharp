@@ -1,0 +1,15 @@
+C:\Users\mathe\Material dos Cursos\udemy-csharp\exercicios\24Exercicio-poo\obj\Debug\net8.0\24Exercicio-poo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mathe\Material dos Cursos\udemy-csharp\exercicios\24Exercicio-poo\obj\Debug\net8.0\24Exercicio-poo.AssemblyInfoInputs.cache
+C:\Users\mathe\Material dos Cursos\udemy-csharp\exercicios\24Exercicio-poo\obj\Debug\net8.0\24Exercicio-poo.AssemblyInfo.cs
+C:\Users\mathe\Material dos Cursos\udemy-csharp\exercicios\24Exercicio-poo\obj\Debug\net8.0\24Exercicio-poo.csproj.CoreCompileInputs.cache
+C:\Users\mathe\Material dos Cursos\udemy-csharp\exercicios\24Exercicio-poo\obj\Debug\net8.0\24Exercicio-poo.sourcelink.json
+C:\Users\mathe\Material dos Cursos\udemy-csharp\exercicios\24Exercicio-poo\bin\Debug\net8.0\24Exercicio-poo.exe
+C:\Users\mathe\Material dos Cursos\udemy-csharp\exercicios\24Exercicio-poo\bin\Debug\net8.0\24Exercicio-poo.deps.json
+C:\Users\mathe\Material dos Cursos\udemy-csharp\exercicios\24Exercicio-poo\bin\Debug\net8.0\24Exercicio-poo.runtimeconfig.json
+C:\Users\mathe\Material dos Cursos\udemy-csharp\exercicios\24Exercicio-poo\bin\Debug\net8.0\24Exercicio-poo.dll
+C:\Users\mathe\Material dos Cursos\udemy-csharp\exercicios\24Exercicio-poo\bin\Debug\net8.0\24Exercicio-poo.pdb
+C:\Users\mathe\Material dos Cursos\udemy-csharp\exercicios\24Exercicio-poo\obj\Debug\net8.0\24Exercicio-poo.dll
+C:\Users\mathe\Material dos Cursos\udemy-csharp\exercicios\24Exercicio-poo\obj\Debug\net8.0\refint\24Exercicio-poo.dll
+C:\Users\mathe\Material dos Cursos\udemy-csharp\exercicios\24Exercicio-poo\obj\Debug\net8.0\24Exercicio-poo.pdb
+C:\Users\mathe\Material dos Cursos\udemy-csharp\exercicios\24Exercicio-poo\obj\Debug\net8.0\24Exercicio-poo.genruntimeconfig.cache
+C:\Users\mathe\Material dos Cursos\udemy-csharp\exercicios\24Exercicio-poo\obj\Debug\net8.0\ref\24Exercicio-poo.dll
