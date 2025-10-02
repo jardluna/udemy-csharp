@@ -1,0 +1,15 @@
+C:\Users\VISITANTE\Material de Estudo\udemy-csharp\aulas\44Upcasting\bin\Debug\net8.0\44Upcasting.exe
+C:\Users\VISITANTE\Material de Estudo\udemy-csharp\aulas\44Upcasting\bin\Debug\net8.0\44Upcasting.deps.json
+C:\Users\VISITANTE\Material de Estudo\udemy-csharp\aulas\44Upcasting\bin\Debug\net8.0\44Upcasting.runtimeconfig.json
+C:\Users\VISITANTE\Material de Estudo\udemy-csharp\aulas\44Upcasting\bin\Debug\net8.0\44Upcasting.dll
+C:\Users\VISITANTE\Material de Estudo\udemy-csharp\aulas\44Upcasting\bin\Debug\net8.0\44Upcasting.pdb
+C:\Users\VISITANTE\Material de Estudo\udemy-csharp\aulas\44Upcasting\obj\Debug\net8.0\44Upcasting.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\VISITANTE\Material de Estudo\udemy-csharp\aulas\44Upcasting\obj\Debug\net8.0\44Upcasting.AssemblyInfoInputs.cache
+C:\Users\VISITANTE\Material de Estudo\udemy-csharp\aulas\44Upcasting\obj\Debug\net8.0\44Upcasting.AssemblyInfo.cs
+C:\Users\VISITANTE\Material de Estudo\udemy-csharp\aulas\44Upcasting\obj\Debug\net8.0\44Upcasting.csproj.CoreCompileInputs.cache
+C:\Users\VISITANTE\Material de Estudo\udemy-csharp\aulas\44Upcasting\obj\Debug\net8.0\44Upcasting.sourcelink.json
+C:\Users\VISITANTE\Material de Estudo\udemy-csharp\aulas\44Upcasting\obj\Debug\net8.0\44Upcasting.dll
+C:\Users\VISITANTE\Material de Estudo\udemy-csharp\aulas\44Upcasting\obj\Debug\net8.0\refint\44Upcasting.dll
+C:\Users\VISITANTE\Material de Estudo\udemy-csharp\aulas\44Upcasting\obj\Debug\net8.0\44Upcasting.pdb
+C:\Users\VISITANTE\Material de Estudo\udemy-csharp\aulas\44Upcasting\obj\Debug\net8.0\44Upcasting.genruntimeconfig.cache
+C:\Users\VISITANTE\Material de Estudo\udemy-csharp\aulas\44Upcasting\obj\Debug\net8.0\ref\44Upcasting.dll
