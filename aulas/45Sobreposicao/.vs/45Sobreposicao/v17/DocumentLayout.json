@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\VISITANTE\\Material de Estudo\\udemy-csharp\\aulas\\45Sobreposicao\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D3F17AB1-786B-4A7A-B0D9-669F72F1D04A}|45Sobreposicao.csproj|c:\\users\\visitante\\material de estudo\\udemy-csharp\\aulas\\45sobreposicao\\entities\\savingsaccount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D3F17AB1-786B-4A7A-B0D9-669F72F1D04A}|45Sobreposicao.csproj|solutionrelative:entities\\savingsaccount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D3F17AB1-786B-4A7A-B0D9-669F72F1D04A}|45Sobreposicao.csproj|c:\\users\\visitante\\material de estudo\\udemy-csharp\\aulas\\45sobreposicao\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D3F17AB1-786B-4A7A-B0D9-669F72F1D04A}|45Sobreposicao.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D3F17AB1-786B-4A7A-B0D9-669F72F1D04A}|45Sobreposicao.csproj|c:\\users\\visitante\\material de estudo\\udemy-csharp\\aulas\\45sobreposicao\\entities\\account.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D3F17AB1-786B-4A7A-B0D9-669F72F1D04A}|45Sobreposicao.csproj|solutionrelative:entities\\account.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D3F17AB1-786B-4A7A-B0D9-669F72F1D04A}|45Sobreposicao.csproj|c:\\users\\visitante\\material de estudo\\udemy-csharp\\aulas\\45sobreposicao\\entities\\businessaccount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D3F17AB1-786B-4A7A-B0D9-669F72F1D04A}|45Sobreposicao.csproj|solutionrelative:entities\\businessaccount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\VISITANTE\\Material de Estudo\\udemy-csharp\\aulas\\45Sobreposicao\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\VISITANTE\\Material de Estudo\\udemy-csharp\\aulas\\45Sobreposicao\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-06T19:47:40.357Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Account.cs",
+              "DocumentMoniker": "C:\\Users\\VISITANTE\\Material de Estudo\\udemy-csharp\\aulas\\45Sobreposicao\\Entities\\Account.cs",
+              "RelativeDocumentMoniker": "Entities\\Account.cs",
+              "ToolTip": "C:\\Users\\VISITANTE\\Material de Estudo\\udemy-csharp\\aulas\\45Sobreposicao\\Entities\\Account.cs",
+              "RelativeToolTip": "Entities\\Account.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAYwBAAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-06T19:49:17.009Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "SavingsAccount.cs",
+              "DocumentMoniker": "C:\\Users\\VISITANTE\\Material de Estudo\\udemy-csharp\\aulas\\45Sobreposicao\\Entities\\SavingsAccount.cs",
+              "RelativeDocumentMoniker": "Entities\\SavingsAccount.cs",
+              "ToolTip": "C:\\Users\\VISITANTE\\Material de Estudo\\udemy-csharp\\aulas\\45Sobreposicao\\Entities\\SavingsAccount.cs",
+              "RelativeToolTip": "Entities\\SavingsAccount.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAgwBEAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-06T19:49:43.676Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "BusinessAccount.cs",
+              "DocumentMoniker": "C:\\Users\\VISITANTE\\Material de Estudo\\udemy-csharp\\aulas\\45Sobreposicao\\Entities\\BusinessAccount.cs",
+              "RelativeDocumentMoniker": "Entities\\BusinessAccount.cs",
+              "ToolTip": "C:\\Users\\VISITANTE\\Material de Estudo\\udemy-csharp\\aulas\\45Sobreposicao\\Entities\\BusinessAccount.cs",
+              "RelativeToolTip": "Entities\\BusinessAccount.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-06T19:49:31.386Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

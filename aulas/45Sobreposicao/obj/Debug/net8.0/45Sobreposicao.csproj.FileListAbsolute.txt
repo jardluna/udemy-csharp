@@ -1,0 +1,15 @@
+C:\Users\VISITANTE\Material de Estudo\udemy-csharp\aulas\45Sobreposicao\bin\Debug\net8.0\45Sobreposicao.exe
+C:\Users\VISITANTE\Material de Estudo\udemy-csharp\aulas\45Sobreposicao\bin\Debug\net8.0\45Sobreposicao.deps.json
+C:\Users\VISITANTE\Material de Estudo\udemy-csharp\aulas\45Sobreposicao\bin\Debug\net8.0\45Sobreposicao.runtimeconfig.json
+C:\Users\VISITANTE\Material de Estudo\udemy-csharp\aulas\45Sobreposicao\bin\Debug\net8.0\45Sobreposicao.dll
+C:\Users\VISITANTE\Material de Estudo\udemy-csharp\aulas\45Sobreposicao\bin\Debug\net8.0\45Sobreposicao.pdb
+C:\Users\VISITANTE\Material de Estudo\udemy-csharp\aulas\45Sobreposicao\obj\Debug\net8.0\45Sobreposicao.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\VISITANTE\Material de Estudo\udemy-csharp\aulas\45Sobreposicao\obj\Debug\net8.0\45Sobreposicao.AssemblyInfoInputs.cache
+C:\Users\VISITANTE\Material de Estudo\udemy-csharp\aulas\45Sobreposicao\obj\Debug\net8.0\45Sobreposicao.AssemblyInfo.cs
+C:\Users\VISITANTE\Material de Estudo\udemy-csharp\aulas\45Sobreposicao\obj\Debug\net8.0\45Sobreposicao.csproj.CoreCompileInputs.cache
+C:\Users\VISITANTE\Material de Estudo\udemy-csharp\aulas\45Sobreposicao\obj\Debug\net8.0\45Sobreposicao.sourcelink.json
+C:\Users\VISITANTE\Material de Estudo\udemy-csharp\aulas\45Sobreposicao\obj\Debug\net8.0\45Sobreposicao.dll
+C:\Users\VISITANTE\Material de Estudo\udemy-csharp\aulas\45Sobreposicao\obj\Debug\net8.0\refint\45Sobreposicao.dll
+C:\Users\VISITANTE\Material de Estudo\udemy-csharp\aulas\45Sobreposicao\obj\Debug\net8.0\45Sobreposicao.pdb
+C:\Users\VISITANTE\Material de Estudo\udemy-csharp\aulas\45Sobreposicao\obj\Debug\net8.0\45Sobreposicao.genruntimeconfig.cache
+C:\Users\VISITANTE\Material de Estudo\udemy-csharp\aulas\45Sobreposicao\obj\Debug\net8.0\ref\45Sobreposicao.dll

@@ -3,16 +3,16 @@
   "WorkspaceRootPath": "C:\\Users\\VISITANTE\\Material de Estudo\\udemy-csharp\\aulas\\43Heranca\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{C063E70C-336F-4D6B-8113-D2A391F827EF}|43Heranca.csproj|c:\\users\\visitante\\material de estudo\\udemy-csharp\\aulas\\43heranca\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C063E70C-336F-4D6B-8113-D2A391F827EF}|43Heranca.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{C063E70C-336F-4D6B-8113-D2A391F827EF}|43Heranca.csproj|c:\\users\\visitante\\material de estudo\\udemy-csharp\\aulas\\43heranca\\entities\\businessaccount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{C063E70C-336F-4D6B-8113-D2A391F827EF}|43Heranca.csproj|solutionrelative:entities\\businessaccount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{C063E70C-336F-4D6B-8113-D2A391F827EF}|43Heranca.csproj|c:\\users\\visitante\\material de estudo\\udemy-csharp\\aulas\\43heranca\\entities\\account.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{C063E70C-336F-4D6B-8113-D2A391F827EF}|43Heranca.csproj|solutionrelative:entities\\account.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C063E70C-336F-4D6B-8113-D2A391F827EF}|43Heranca.csproj|c:\\users\\visitante\\material de estudo\\udemy-csharp\\aulas\\43heranca\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C063E70C-336F-4D6B-8113-D2A391F827EF}|43Heranca.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -22,11 +22,11 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 0,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\VISITANTE\\Material de Estudo\\udemy-csharp\\aulas\\43Heranca\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
@@ -40,7 +40,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "Account.cs",
               "DocumentMoniker": "C:\\Users\\VISITANTE\\Material de Estudo\\udemy-csharp\\aulas\\43Heranca\\Entities\\Account.cs",
               "RelativeDocumentMoniker": "Entities\\Account.cs",
@@ -53,7 +53,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "BusinessAccount.cs",
               "DocumentMoniker": "C:\\Users\\VISITANTE\\Material de Estudo\\udemy-csharp\\aulas\\43Heranca\\Entities\\BusinessAccount.cs",
               "RelativeDocumentMoniker": "Entities\\BusinessAccount.cs",
