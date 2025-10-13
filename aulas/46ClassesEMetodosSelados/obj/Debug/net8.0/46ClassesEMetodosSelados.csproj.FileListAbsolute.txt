@@ -1,0 +1,5 @@
+C:\Users\VISITANTE\Material de Estudo\udemy-csharp\aulas\46ClassesEMetodosSelados\obj\Debug\net8.0\46ClassesEMetodosSelados.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\VISITANTE\Material de Estudo\udemy-csharp\aulas\46ClassesEMetodosSelados\obj\Debug\net8.0\46ClassesEMetodosSelados.AssemblyInfoInputs.cache
+C:\Users\VISITANTE\Material de Estudo\udemy-csharp\aulas\46ClassesEMetodosSelados\obj\Debug\net8.0\46ClassesEMetodosSelados.AssemblyInfo.cs
+C:\Users\VISITANTE\Material de Estudo\udemy-csharp\aulas\46ClassesEMetodosSelados\obj\Debug\net8.0\46ClassesEMetodosSelados.csproj.CoreCompileInputs.cache
+C:\Users\VISITANTE\Material de Estudo\udemy-csharp\aulas\46ClassesEMetodosSelados\obj\Debug\net8.0\46ClassesEMetodosSelados.sourcelink.json

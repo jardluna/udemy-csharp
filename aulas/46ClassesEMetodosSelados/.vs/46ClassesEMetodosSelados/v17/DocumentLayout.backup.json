@@ -1,0 +1,123 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\VISITANTE\\Material de Estudo\\udemy-csharp\\aulas\\46ClassesEMetodosSelados\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2DE545BE-7E85-4EC3-A87F-9CD21FC8F9A9}|46ClassesEMetodosSelados.csproj|c:\\users\\visitante\\material de estudo\\udemy-csharp\\aulas\\46classesemetodosselados\\entities\\savingsaccountplus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2DE545BE-7E85-4EC3-A87F-9CD21FC8F9A9}|46ClassesEMetodosSelados.csproj|solutionrelative:entities\\savingsaccountplus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2DE545BE-7E85-4EC3-A87F-9CD21FC8F9A9}|46ClassesEMetodosSelados.csproj|c:\\users\\visitante\\material de estudo\\udemy-csharp\\aulas\\46classesemetodosselados\\entities\\savingsaccount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2DE545BE-7E85-4EC3-A87F-9CD21FC8F9A9}|46ClassesEMetodosSelados.csproj|solutionrelative:entities\\savingsaccount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2DE545BE-7E85-4EC3-A87F-9CD21FC8F9A9}|46ClassesEMetodosSelados.csproj|c:\\users\\visitante\\material de estudo\\udemy-csharp\\aulas\\46classesemetodosselados\\entities\\businessaccountplus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2DE545BE-7E85-4EC3-A87F-9CD21FC8F9A9}|46ClassesEMetodosSelados.csproj|solutionrelative:entities\\businessaccountplus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2DE545BE-7E85-4EC3-A87F-9CD21FC8F9A9}|46ClassesEMetodosSelados.csproj|c:\\users\\visitante\\material de estudo\\udemy-csharp\\aulas\\46classesemetodosselados\\entities\\businessaccount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2DE545BE-7E85-4EC3-A87F-9CD21FC8F9A9}|46ClassesEMetodosSelados.csproj|solutionrelative:entities\\businessaccount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2DE545BE-7E85-4EC3-A87F-9CD21FC8F9A9}|46ClassesEMetodosSelados.csproj|c:\\users\\visitante\\material de estudo\\udemy-csharp\\aulas\\46classesemetodosselados\\entities\\account.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2DE545BE-7E85-4EC3-A87F-9CD21FC8F9A9}|46ClassesEMetodosSelados.csproj|solutionrelative:entities\\account.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2DE545BE-7E85-4EC3-A87F-9CD21FC8F9A9}|46ClassesEMetodosSelados.csproj|c:\\users\\visitante\\material de estudo\\udemy-csharp\\aulas\\46classesemetodosselados\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2DE545BE-7E85-4EC3-A87F-9CD21FC8F9A9}|46ClassesEMetodosSelados.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\VISITANTE\\Material de Estudo\\udemy-csharp\\aulas\\46ClassesEMetodosSelados\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\VISITANTE\\Material de Estudo\\udemy-csharp\\aulas\\46ClassesEMetodosSelados\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-13T21:28:07.746Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Account.cs",
+              "DocumentMoniker": "C:\\Users\\VISITANTE\\Material de Estudo\\udemy-csharp\\aulas\\46ClassesEMetodosSelados\\Entities\\Account.cs",
+              "RelativeDocumentMoniker": "Entities\\Account.cs",
+              "ToolTip": "C:\\Users\\VISITANTE\\Material de Estudo\\udemy-csharp\\aulas\\46ClassesEMetodosSelados\\Entities\\Account.cs",
+              "RelativeToolTip": "Entities\\Account.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAgwBQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-13T21:29:12.587Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "BusinessAccount.cs",
+              "DocumentMoniker": "C:\\Users\\VISITANTE\\Material de Estudo\\udemy-csharp\\aulas\\46ClassesEMetodosSelados\\Entities\\BusinessAccount.cs",
+              "RelativeDocumentMoniker": "Entities\\BusinessAccount.cs",
+              "ToolTip": "C:\\Users\\VISITANTE\\Material de Estudo\\udemy-csharp\\aulas\\46ClassesEMetodosSelados\\Entities\\BusinessAccount.cs",
+              "RelativeToolTip": "Entities\\BusinessAccount.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-13T21:29:23.463Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "BusinessAccountPlus.cs",
+              "DocumentMoniker": "C:\\Users\\VISITANTE\\Material de Estudo\\udemy-csharp\\aulas\\46ClassesEMetodosSelados\\Entities\\BusinessAccountPlus.cs",
+              "RelativeDocumentMoniker": "Entities\\BusinessAccountPlus.cs",
+              "ToolTip": "C:\\Users\\VISITANTE\\Material de Estudo\\udemy-csharp\\aulas\\46ClassesEMetodosSelados\\Entities\\BusinessAccountPlus.cs",
+              "RelativeToolTip": "Entities\\BusinessAccountPlus.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAB7AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-13T22:06:48.329Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "SavingsAccount.cs",
+              "DocumentMoniker": "C:\\Users\\VISITANTE\\Material de Estudo\\udemy-csharp\\aulas\\46ClassesEMetodosSelados\\Entities\\SavingsAccount.cs",
+              "RelativeDocumentMoniker": "Entities\\SavingsAccount.cs",
+              "ToolTip": "C:\\Users\\VISITANTE\\Material de Estudo\\udemy-csharp\\aulas\\46ClassesEMetodosSelados\\Entities\\SavingsAccount.cs",
+              "RelativeToolTip": "Entities\\SavingsAccount.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAQwBMAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-13T21:29:34.026Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "SavingsAccountPlus.cs",
+              "DocumentMoniker": "C:\\Users\\VISITANTE\\Material de Estudo\\udemy-csharp\\aulas\\46ClassesEMetodosSelados\\Entities\\SavingsAccountPlus.cs",
+              "RelativeDocumentMoniker": "Entities\\SavingsAccountPlus.cs",
+              "ToolTip": "C:\\Users\\VISITANTE\\Material de Estudo\\udemy-csharp\\aulas\\46ClassesEMetodosSelados\\Entities\\SavingsAccountPlus.cs",
+              "RelativeToolTip": "Entities\\SavingsAccountPlus.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAABPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-13T22:06:38.712Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
