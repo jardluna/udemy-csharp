@@ -1,0 +1,15 @@
+C:\Users\VISITANTE\Material de Estudo\udemy-csharp\exercicios\26Exercicio-poo\bin\Debug\net8.0\26Exercicio-poo.exe
+C:\Users\VISITANTE\Material de Estudo\udemy-csharp\exercicios\26Exercicio-poo\bin\Debug\net8.0\26Exercicio-poo.deps.json
+C:\Users\VISITANTE\Material de Estudo\udemy-csharp\exercicios\26Exercicio-poo\bin\Debug\net8.0\26Exercicio-poo.runtimeconfig.json
+C:\Users\VISITANTE\Material de Estudo\udemy-csharp\exercicios\26Exercicio-poo\bin\Debug\net8.0\26Exercicio-poo.dll
+C:\Users\VISITANTE\Material de Estudo\udemy-csharp\exercicios\26Exercicio-poo\bin\Debug\net8.0\26Exercicio-poo.pdb
+C:\Users\VISITANTE\Material de Estudo\udemy-csharp\exercicios\26Exercicio-poo\obj\Debug\net8.0\26Exercicio-poo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\VISITANTE\Material de Estudo\udemy-csharp\exercicios\26Exercicio-poo\obj\Debug\net8.0\26Exercicio-poo.AssemblyInfoInputs.cache
+C:\Users\VISITANTE\Material de Estudo\udemy-csharp\exercicios\26Exercicio-poo\obj\Debug\net8.0\26Exercicio-poo.AssemblyInfo.cs
+C:\Users\VISITANTE\Material de Estudo\udemy-csharp\exercicios\26Exercicio-poo\obj\Debug\net8.0\26Exercicio-poo.csproj.CoreCompileInputs.cache
+C:\Users\VISITANTE\Material de Estudo\udemy-csharp\exercicios\26Exercicio-poo\obj\Debug\net8.0\26Exercicio-poo.sourcelink.json
+C:\Users\VISITANTE\Material de Estudo\udemy-csharp\exercicios\26Exercicio-poo\obj\Debug\net8.0\26Exercicio-poo.dll
+C:\Users\VISITANTE\Material de Estudo\udemy-csharp\exercicios\26Exercicio-poo\obj\Debug\net8.0\refint\26Exercicio-poo.dll
+C:\Users\VISITANTE\Material de Estudo\udemy-csharp\exercicios\26Exercicio-poo\obj\Debug\net8.0\26Exercicio-poo.pdb
+C:\Users\VISITANTE\Material de Estudo\udemy-csharp\exercicios\26Exercicio-poo\obj\Debug\net8.0\26Exercicio-poo.genruntimeconfig.cache
+C:\Users\VISITANTE\Material de Estudo\udemy-csharp\exercicios\26Exercicio-poo\obj\Debug\net8.0\ref\26Exercicio-poo.dll

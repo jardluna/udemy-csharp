@@ -1,0 +1,89 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\VISITANTE\\Material de Estudo\\udemy-csharp\\exercicios\\26Exercicio-poo\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9E67BFEA-7253-4882-8ECC-E4DC068845BD}|26Exercicio-poo.csproj|c:\\users\\visitante\\material de estudo\\udemy-csharp\\exercicios\\26exercicio-poo\\entities\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9E67BFEA-7253-4882-8ECC-E4DC068845BD}|26Exercicio-poo.csproj|solutionrelative:entities\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9E67BFEA-7253-4882-8ECC-E4DC068845BD}|26Exercicio-poo.csproj|c:\\users\\visitante\\material de estudo\\udemy-csharp\\exercicios\\26exercicio-poo\\entities\\importedproduct.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9E67BFEA-7253-4882-8ECC-E4DC068845BD}|26Exercicio-poo.csproj|solutionrelative:entities\\importedproduct.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9E67BFEA-7253-4882-8ECC-E4DC068845BD}|26Exercicio-poo.csproj|c:\\users\\visitante\\material de estudo\\udemy-csharp\\exercicios\\26exercicio-poo\\entities\\usedproduct.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9E67BFEA-7253-4882-8ECC-E4DC068845BD}|26Exercicio-poo.csproj|solutionrelative:entities\\usedproduct.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9E67BFEA-7253-4882-8ECC-E4DC068845BD}|26Exercicio-poo.csproj|c:\\users\\visitante\\material de estudo\\udemy-csharp\\exercicios\\26exercicio-poo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9E67BFEA-7253-4882-8ECC-E4DC068845BD}|26Exercicio-poo.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\VISITANTE\\Material de Estudo\\udemy-csharp\\exercicios\\26Exercicio-poo\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\VISITANTE\\Material de Estudo\\udemy-csharp\\exercicios\\26Exercicio-poo\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-15T23:01:38.505Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\Users\\VISITANTE\\Material de Estudo\\udemy-csharp\\exercicios\\26Exercicio-poo\\Entities\\Product.cs",
+              "RelativeDocumentMoniker": "Entities\\Product.cs",
+              "ToolTip": "C:\\Users\\VISITANTE\\Material de Estudo\\udemy-csharp\\exercicios\\26Exercicio-poo\\Entities\\Product.cs",
+              "RelativeToolTip": "Entities\\Product.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAAwBIAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-15T23:02:28.912Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "UsedProduct.cs",
+              "DocumentMoniker": "C:\\Users\\VISITANTE\\Material de Estudo\\udemy-csharp\\exercicios\\26Exercicio-poo\\Entities\\UsedProduct.cs",
+              "RelativeDocumentMoniker": "Entities\\UsedProduct.cs",
+              "ToolTip": "C:\\Users\\VISITANTE\\Material de Estudo\\udemy-csharp\\exercicios\\26Exercicio-poo\\Entities\\UsedProduct.cs",
+              "RelativeToolTip": "Entities\\UsedProduct.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABIAAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-15T23:02:56.172Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ImportedProduct.cs",
+              "DocumentMoniker": "C:\\Users\\VISITANTE\\Material de Estudo\\udemy-csharp\\exercicios\\26Exercicio-poo\\Entities\\ImportedProduct.cs",
+              "RelativeDocumentMoniker": "Entities\\ImportedProduct.cs",
+              "ToolTip": "C:\\Users\\VISITANTE\\Material de Estudo\\udemy-csharp\\exercicios\\26Exercicio-poo\\Entities\\ImportedProduct.cs",
+              "RelativeToolTip": "Entities\\ImportedProduct.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAYwBcAAABoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-15T23:02:43.217Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
