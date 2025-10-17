@@ -1,0 +1,15 @@
+C:\Users\VISITANTE\Material de Estudo\udemy-csharp\aulas\47ClassesAbstratas\bin\Debug\net8.0\47ClassesAbstratas.exe
+C:\Users\VISITANTE\Material de Estudo\udemy-csharp\aulas\47ClassesAbstratas\bin\Debug\net8.0\47ClassesAbstratas.deps.json
+C:\Users\VISITANTE\Material de Estudo\udemy-csharp\aulas\47ClassesAbstratas\bin\Debug\net8.0\47ClassesAbstratas.runtimeconfig.json
+C:\Users\VISITANTE\Material de Estudo\udemy-csharp\aulas\47ClassesAbstratas\bin\Debug\net8.0\47ClassesAbstratas.dll
+C:\Users\VISITANTE\Material de Estudo\udemy-csharp\aulas\47ClassesAbstratas\bin\Debug\net8.0\47ClassesAbstratas.pdb
+C:\Users\VISITANTE\Material de Estudo\udemy-csharp\aulas\47ClassesAbstratas\obj\Debug\net8.0\47ClassesAbstratas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\VISITANTE\Material de Estudo\udemy-csharp\aulas\47ClassesAbstratas\obj\Debug\net8.0\47ClassesAbstratas.AssemblyInfoInputs.cache
+C:\Users\VISITANTE\Material de Estudo\udemy-csharp\aulas\47ClassesAbstratas\obj\Debug\net8.0\47ClassesAbstratas.AssemblyInfo.cs
+C:\Users\VISITANTE\Material de Estudo\udemy-csharp\aulas\47ClassesAbstratas\obj\Debug\net8.0\47ClassesAbstratas.csproj.CoreCompileInputs.cache
+C:\Users\VISITANTE\Material de Estudo\udemy-csharp\aulas\47ClassesAbstratas\obj\Debug\net8.0\47ClassesAbstratas.sourcelink.json
+C:\Users\VISITANTE\Material de Estudo\udemy-csharp\aulas\47ClassesAbstratas\obj\Debug\net8.0\47ClassesAbstratas.dll
+C:\Users\VISITANTE\Material de Estudo\udemy-csharp\aulas\47ClassesAbstratas\obj\Debug\net8.0\refint\47ClassesAbstratas.dll
+C:\Users\VISITANTE\Material de Estudo\udemy-csharp\aulas\47ClassesAbstratas\obj\Debug\net8.0\47ClassesAbstratas.pdb
+C:\Users\VISITANTE\Material de Estudo\udemy-csharp\aulas\47ClassesAbstratas\obj\Debug\net8.0\47ClassesAbstratas.genruntimeconfig.cache
+C:\Users\VISITANTE\Material de Estudo\udemy-csharp\aulas\47ClassesAbstratas\obj\Debug\net8.0\ref\47ClassesAbstratas.dll
