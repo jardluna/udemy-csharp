@@ -1,0 +1,15 @@
+C:\Users\VISITANTE\Material de Estudo\udemy-csharp\aulas\48MetodosAbstratos\obj\Debug\net8.0\48MetodosAbstratos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\VISITANTE\Material de Estudo\udemy-csharp\aulas\48MetodosAbstratos\obj\Debug\net8.0\48MetodosAbstratos.AssemblyInfoInputs.cache
+C:\Users\VISITANTE\Material de Estudo\udemy-csharp\aulas\48MetodosAbstratos\obj\Debug\net8.0\48MetodosAbstratos.AssemblyInfo.cs
+C:\Users\VISITANTE\Material de Estudo\udemy-csharp\aulas\48MetodosAbstratos\obj\Debug\net8.0\48MetodosAbstratos.csproj.CoreCompileInputs.cache
+C:\Users\VISITANTE\Material de Estudo\udemy-csharp\aulas\48MetodosAbstratos\obj\Debug\net8.0\48MetodosAbstratos.sourcelink.json
+C:\Users\VISITANTE\Material de Estudo\udemy-csharp\aulas\48MetodosAbstratos\bin\Debug\net8.0\48MetodosAbstratos.exe
+C:\Users\VISITANTE\Material de Estudo\udemy-csharp\aulas\48MetodosAbstratos\bin\Debug\net8.0\48MetodosAbstratos.deps.json
+C:\Users\VISITANTE\Material de Estudo\udemy-csharp\aulas\48MetodosAbstratos\bin\Debug\net8.0\48MetodosAbstratos.runtimeconfig.json
+C:\Users\VISITANTE\Material de Estudo\udemy-csharp\aulas\48MetodosAbstratos\bin\Debug\net8.0\48MetodosAbstratos.dll
+C:\Users\VISITANTE\Material de Estudo\udemy-csharp\aulas\48MetodosAbstratos\bin\Debug\net8.0\48MetodosAbstratos.pdb
+C:\Users\VISITANTE\Material de Estudo\udemy-csharp\aulas\48MetodosAbstratos\obj\Debug\net8.0\48MetodosAbstratos.dll
+C:\Users\VISITANTE\Material de Estudo\udemy-csharp\aulas\48MetodosAbstratos\obj\Debug\net8.0\refint\48MetodosAbstratos.dll
+C:\Users\VISITANTE\Material de Estudo\udemy-csharp\aulas\48MetodosAbstratos\obj\Debug\net8.0\48MetodosAbstratos.pdb
+C:\Users\VISITANTE\Material de Estudo\udemy-csharp\aulas\48MetodosAbstratos\obj\Debug\net8.0\48MetodosAbstratos.genruntimeconfig.cache
+C:\Users\VISITANTE\Material de Estudo\udemy-csharp\aulas\48MetodosAbstratos\obj\Debug\net8.0\ref\48MetodosAbstratos.dll

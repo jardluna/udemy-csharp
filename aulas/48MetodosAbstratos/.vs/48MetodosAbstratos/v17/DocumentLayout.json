@@ -1,0 +1,106 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\VISITANTE\\Material de Estudo\\udemy-csharp\\aulas\\48MetodosAbstratos\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5ADD03A4-6AC3-418D-AF5C-00349B191687}|48MetodosAbstratos.csproj|c:\\users\\visitante\\material de estudo\\udemy-csharp\\aulas\\48metodosabstratos\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5ADD03A4-6AC3-418D-AF5C-00349B191687}|48MetodosAbstratos.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5ADD03A4-6AC3-418D-AF5C-00349B191687}|48MetodosAbstratos.csproj|c:\\users\\visitante\\material de estudo\\udemy-csharp\\aulas\\48metodosabstratos\\entities\\enums\\color.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5ADD03A4-6AC3-418D-AF5C-00349B191687}|48MetodosAbstratos.csproj|solutionrelative:entities\\enums\\color.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5ADD03A4-6AC3-418D-AF5C-00349B191687}|48MetodosAbstratos.csproj|c:\\users\\visitante\\material de estudo\\udemy-csharp\\aulas\\48metodosabstratos\\entities\\circle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5ADD03A4-6AC3-418D-AF5C-00349B191687}|48MetodosAbstratos.csproj|solutionrelative:entities\\circle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5ADD03A4-6AC3-418D-AF5C-00349B191687}|48MetodosAbstratos.csproj|c:\\users\\visitante\\material de estudo\\udemy-csharp\\aulas\\48metodosabstratos\\entities\\shape.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5ADD03A4-6AC3-418D-AF5C-00349B191687}|48MetodosAbstratos.csproj|solutionrelative:entities\\shape.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5ADD03A4-6AC3-418D-AF5C-00349B191687}|48MetodosAbstratos.csproj|c:\\users\\visitante\\material de estudo\\udemy-csharp\\aulas\\48metodosabstratos\\entities\\rectangle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5ADD03A4-6AC3-418D-AF5C-00349B191687}|48MetodosAbstratos.csproj|solutionrelative:entities\\rectangle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\VISITANTE\\Material de Estudo\\udemy-csharp\\aulas\\48MetodosAbstratos\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\VISITANTE\\Material de Estudo\\udemy-csharp\\aulas\\48MetodosAbstratos\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAACAAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-17T23:01:18.146Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Shape.cs",
+              "DocumentMoniker": "C:\\Users\\VISITANTE\\Material de Estudo\\udemy-csharp\\aulas\\48MetodosAbstratos\\Entities\\Shape.cs",
+              "RelativeDocumentMoniker": "Entities\\Shape.cs",
+              "ToolTip": "C:\\Users\\VISITANTE\\Material de Estudo\\udemy-csharp\\aulas\\48MetodosAbstratos\\Entities\\Shape.cs",
+              "RelativeToolTip": "Entities\\Shape.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-17T23:02:36.747Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Rectangle.cs",
+              "DocumentMoniker": "C:\\Users\\VISITANTE\\Material de Estudo\\udemy-csharp\\aulas\\48MetodosAbstratos\\Entities\\Rectangle.cs",
+              "RelativeDocumentMoniker": "Entities\\Rectangle.cs",
+              "ToolTip": "C:\\Users\\VISITANTE\\Material de Estudo\\udemy-csharp\\aulas\\48MetodosAbstratos\\Entities\\Rectangle.cs",
+              "RelativeToolTip": "Entities\\Rectangle.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-17T23:02:47.586Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Circle.cs",
+              "DocumentMoniker": "C:\\Users\\VISITANTE\\Material de Estudo\\udemy-csharp\\aulas\\48MetodosAbstratos\\Entities\\Circle.cs",
+              "RelativeDocumentMoniker": "Entities\\Circle.cs",
+              "ToolTip": "C:\\Users\\VISITANTE\\Material de Estudo\\udemy-csharp\\aulas\\48MetodosAbstratos\\Entities\\Circle.cs",
+              "RelativeToolTip": "Entities\\Circle.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-17T23:02:54.343Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Color.cs",
+              "DocumentMoniker": "C:\\Users\\VISITANTE\\Material de Estudo\\udemy-csharp\\aulas\\48MetodosAbstratos\\Entities\\Enums\\Color.cs",
+              "RelativeDocumentMoniker": "Entities\\Enums\\Color.cs",
+              "ToolTip": "C:\\Users\\VISITANTE\\Material de Estudo\\udemy-csharp\\aulas\\48MetodosAbstratos\\Entities\\Enums\\Color.cs",
+              "RelativeToolTip": "Entities\\Enums\\Color.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-17T23:03:31.155Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
