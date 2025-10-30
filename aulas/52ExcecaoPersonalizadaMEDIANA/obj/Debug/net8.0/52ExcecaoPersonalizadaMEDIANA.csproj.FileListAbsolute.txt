@@ -1,0 +1,15 @@
+C:\Users\mathe\Cursos\udemy-csharp\aulas\52ExcecaoPersonalizadaMEDIANA\bin\Debug\net8.0\52ExcecaoPersonalizadaMEDIANA.exe
+C:\Users\mathe\Cursos\udemy-csharp\aulas\52ExcecaoPersonalizadaMEDIANA\bin\Debug\net8.0\52ExcecaoPersonalizadaMEDIANA.deps.json
+C:\Users\mathe\Cursos\udemy-csharp\aulas\52ExcecaoPersonalizadaMEDIANA\bin\Debug\net8.0\52ExcecaoPersonalizadaMEDIANA.runtimeconfig.json
+C:\Users\mathe\Cursos\udemy-csharp\aulas\52ExcecaoPersonalizadaMEDIANA\bin\Debug\net8.0\52ExcecaoPersonalizadaMEDIANA.dll
+C:\Users\mathe\Cursos\udemy-csharp\aulas\52ExcecaoPersonalizadaMEDIANA\bin\Debug\net8.0\52ExcecaoPersonalizadaMEDIANA.pdb
+C:\Users\mathe\Cursos\udemy-csharp\aulas\52ExcecaoPersonalizadaMEDIANA\obj\Debug\net8.0\52ExcecaoPersonalizadaMEDIANA.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mathe\Cursos\udemy-csharp\aulas\52ExcecaoPersonalizadaMEDIANA\obj\Debug\net8.0\52ExcecaoPersonalizadaMEDIANA.AssemblyInfoInputs.cache
+C:\Users\mathe\Cursos\udemy-csharp\aulas\52ExcecaoPersonalizadaMEDIANA\obj\Debug\net8.0\52ExcecaoPersonalizadaMEDIANA.AssemblyInfo.cs
+C:\Users\mathe\Cursos\udemy-csharp\aulas\52ExcecaoPersonalizadaMEDIANA\obj\Debug\net8.0\52ExcecaoPersonalizadaMEDIANA.csproj.CoreCompileInputs.cache
+C:\Users\mathe\Cursos\udemy-csharp\aulas\52ExcecaoPersonalizadaMEDIANA\obj\Debug\net8.0\52ExcecaoPersonalizadaMEDIANA.sourcelink.json
+C:\Users\mathe\Cursos\udemy-csharp\aulas\52ExcecaoPersonalizadaMEDIANA\obj\Debug\net8.0\52ExcecaoPersonalizadaMEDIANA.dll
+C:\Users\mathe\Cursos\udemy-csharp\aulas\52ExcecaoPersonalizadaMEDIANA\obj\Debug\net8.0\refint\52ExcecaoPersonalizadaMEDIANA.dll
+C:\Users\mathe\Cursos\udemy-csharp\aulas\52ExcecaoPersonalizadaMEDIANA\obj\Debug\net8.0\52ExcecaoPersonalizadaMEDIANA.pdb
+C:\Users\mathe\Cursos\udemy-csharp\aulas\52ExcecaoPersonalizadaMEDIANA\obj\Debug\net8.0\52ExcecaoPersonalizadaMEDIANA.genruntimeconfig.cache
+C:\Users\mathe\Cursos\udemy-csharp\aulas\52ExcecaoPersonalizadaMEDIANA\obj\Debug\net8.0\ref\52ExcecaoPersonalizadaMEDIANA.dll
