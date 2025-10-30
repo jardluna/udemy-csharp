@@ -1,0 +1,67 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\mathe\\Cursos\\udemy-csharp\\aulas\\51Exce\u00E7\u00F5esPersonalizadas\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{02DD7577-EDD8-4471-879F-DA80595095B3}|51ExcecaoPersonalizadaRUIM.csproj|c:\\users\\mathe\\cursos\\udemy-csharp\\aulas\\51exce\u00E7\u00F5espersonalizadas\\entities\\reservation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{02DD7577-EDD8-4471-879F-DA80595095B3}|51ExcecaoPersonalizadaRUIM.csproj|solutionrelative:entities\\reservation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{02DD7577-EDD8-4471-879F-DA80595095B3}|51Exce\u00E7\u00F5esPersonalizadas.csproj|c:\\users\\mathe\\cursos\\udemy-csharp\\aulas\\51exce\u00E7\u00F5espersonalizadas\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{02DD7577-EDD8-4471-879F-DA80595095B3}|51Exce\u00E7\u00F5esPersonalizadas.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\mathe\\Cursos\\udemy-csharp\\aulas\\51Exce\u00E7\u00F5esPersonalizadas\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\mathe\\Cursos\\udemy-csharp\\aulas\\51Exce\u00E7\u00F5esPersonalizadas\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-29T23:13:04.421Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Reservation.cs",
+              "DocumentMoniker": "C:\\Users\\mathe\\Cursos\\udemy-csharp\\aulas\\51Exce\u00E7\u00F5esPersonalizadas\\Entities\\Reservation.cs",
+              "RelativeDocumentMoniker": "Entities\\Reservation.cs",
+              "ToolTip": "C:\\Users\\mathe\\Cursos\\udemy-csharp\\aulas\\51Exce\u00E7\u00F5esPersonalizadas\\Entities\\Reservation.cs",
+              "RelativeToolTip": "Entities\\Reservation.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-30T00:24:47.754Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

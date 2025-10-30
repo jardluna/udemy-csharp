@@ -1,0 +1,15 @@
+C:\Users\mathe\Cursos\udemy-csharp\aulas\51ExceçõesPersonalizadas\bin\Debug\net8.0\51ExceçõesPersonalizadas.exe
+C:\Users\mathe\Cursos\udemy-csharp\aulas\51ExceçõesPersonalizadas\bin\Debug\net8.0\51ExceçõesPersonalizadas.deps.json
+C:\Users\mathe\Cursos\udemy-csharp\aulas\51ExceçõesPersonalizadas\bin\Debug\net8.0\51ExceçõesPersonalizadas.runtimeconfig.json
+C:\Users\mathe\Cursos\udemy-csharp\aulas\51ExceçõesPersonalizadas\bin\Debug\net8.0\51ExceçõesPersonalizadas.dll
+C:\Users\mathe\Cursos\udemy-csharp\aulas\51ExceçõesPersonalizadas\bin\Debug\net8.0\51ExceçõesPersonalizadas.pdb
+C:\Users\mathe\Cursos\udemy-csharp\aulas\51ExceçõesPersonalizadas\obj\Debug\net8.0\51ExceçõesPersonalizadas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mathe\Cursos\udemy-csharp\aulas\51ExceçõesPersonalizadas\obj\Debug\net8.0\51ExceçõesPersonalizadas.AssemblyInfoInputs.cache
+C:\Users\mathe\Cursos\udemy-csharp\aulas\51ExceçõesPersonalizadas\obj\Debug\net8.0\51ExceçõesPersonalizadas.AssemblyInfo.cs
+C:\Users\mathe\Cursos\udemy-csharp\aulas\51ExceçõesPersonalizadas\obj\Debug\net8.0\51ExceçõesPersonalizadas.csproj.CoreCompileInputs.cache
+C:\Users\mathe\Cursos\udemy-csharp\aulas\51ExceçõesPersonalizadas\obj\Debug\net8.0\51ExceçõesPersonalizadas.sourcelink.json
+C:\Users\mathe\Cursos\udemy-csharp\aulas\51ExceçõesPersonalizadas\obj\Debug\net8.0\51ExceçõesPersonalizadas.dll
+C:\Users\mathe\Cursos\udemy-csharp\aulas\51ExceçõesPersonalizadas\obj\Debug\net8.0\refint\51ExceçõesPersonalizadas.dll
+C:\Users\mathe\Cursos\udemy-csharp\aulas\51ExceçõesPersonalizadas\obj\Debug\net8.0\51ExceçõesPersonalizadas.pdb
+C:\Users\mathe\Cursos\udemy-csharp\aulas\51ExceçõesPersonalizadas\obj\Debug\net8.0\51ExceçõesPersonalizadas.genruntimeconfig.cache
+C:\Users\mathe\Cursos\udemy-csharp\aulas\51ExceçõesPersonalizadas\obj\Debug\net8.0\ref\51ExceçõesPersonalizadas.dll

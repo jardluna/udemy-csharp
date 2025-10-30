@@ -1,0 +1,15 @@
+C:\Users\mathe\Cursos\udemy-csharp\aulas\50BlocoFinally\bin\Debug\net8.0\50BlocoFinally.exe
+C:\Users\mathe\Cursos\udemy-csharp\aulas\50BlocoFinally\bin\Debug\net8.0\50BlocoFinally.deps.json
+C:\Users\mathe\Cursos\udemy-csharp\aulas\50BlocoFinally\bin\Debug\net8.0\50BlocoFinally.runtimeconfig.json
+C:\Users\mathe\Cursos\udemy-csharp\aulas\50BlocoFinally\bin\Debug\net8.0\50BlocoFinally.dll
+C:\Users\mathe\Cursos\udemy-csharp\aulas\50BlocoFinally\bin\Debug\net8.0\50BlocoFinally.pdb
+C:\Users\mathe\Cursos\udemy-csharp\aulas\50BlocoFinally\obj\Debug\net8.0\50BlocoFinally.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mathe\Cursos\udemy-csharp\aulas\50BlocoFinally\obj\Debug\net8.0\50BlocoFinally.AssemblyInfoInputs.cache
+C:\Users\mathe\Cursos\udemy-csharp\aulas\50BlocoFinally\obj\Debug\net8.0\50BlocoFinally.AssemblyInfo.cs
+C:\Users\mathe\Cursos\udemy-csharp\aulas\50BlocoFinally\obj\Debug\net8.0\50BlocoFinally.csproj.CoreCompileInputs.cache
+C:\Users\mathe\Cursos\udemy-csharp\aulas\50BlocoFinally\obj\Debug\net8.0\50BlocoFinally.sourcelink.json
+C:\Users\mathe\Cursos\udemy-csharp\aulas\50BlocoFinally\obj\Debug\net8.0\50BlocoFinally.dll
+C:\Users\mathe\Cursos\udemy-csharp\aulas\50BlocoFinally\obj\Debug\net8.0\refint\50BlocoFinally.dll
+C:\Users\mathe\Cursos\udemy-csharp\aulas\50BlocoFinally\obj\Debug\net8.0\50BlocoFinally.pdb
+C:\Users\mathe\Cursos\udemy-csharp\aulas\50BlocoFinally\obj\Debug\net8.0\50BlocoFinally.genruntimeconfig.cache
+C:\Users\mathe\Cursos\udemy-csharp\aulas\50BlocoFinally\obj\Debug\net8.0\ref\50BlocoFinally.dll

@@ -1,0 +1,15 @@
+C:\Users\mathe\Cursos\udemy-csharp\aulas\49EstruturaTryCatch\bin\Debug\net8.0\49EstruturaTryCatch.exe
+C:\Users\mathe\Cursos\udemy-csharp\aulas\49EstruturaTryCatch\bin\Debug\net8.0\49EstruturaTryCatch.deps.json
+C:\Users\mathe\Cursos\udemy-csharp\aulas\49EstruturaTryCatch\bin\Debug\net8.0\49EstruturaTryCatch.runtimeconfig.json
+C:\Users\mathe\Cursos\udemy-csharp\aulas\49EstruturaTryCatch\bin\Debug\net8.0\49EstruturaTryCatch.dll
+C:\Users\mathe\Cursos\udemy-csharp\aulas\49EstruturaTryCatch\bin\Debug\net8.0\49EstruturaTryCatch.pdb
+C:\Users\mathe\Cursos\udemy-csharp\aulas\49EstruturaTryCatch\obj\Debug\net8.0\49EstruturaTryCatch.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mathe\Cursos\udemy-csharp\aulas\49EstruturaTryCatch\obj\Debug\net8.0\49EstruturaTryCatch.AssemblyInfoInputs.cache
+C:\Users\mathe\Cursos\udemy-csharp\aulas\49EstruturaTryCatch\obj\Debug\net8.0\49EstruturaTryCatch.AssemblyInfo.cs
+C:\Users\mathe\Cursos\udemy-csharp\aulas\49EstruturaTryCatch\obj\Debug\net8.0\49EstruturaTryCatch.csproj.CoreCompileInputs.cache
+C:\Users\mathe\Cursos\udemy-csharp\aulas\49EstruturaTryCatch\obj\Debug\net8.0\49EstruturaTryCatch.sourcelink.json
+C:\Users\mathe\Cursos\udemy-csharp\aulas\49EstruturaTryCatch\obj\Debug\net8.0\49EstruturaTryCatch.dll
+C:\Users\mathe\Cursos\udemy-csharp\aulas\49EstruturaTryCatch\obj\Debug\net8.0\refint\49EstruturaTryCatch.dll
+C:\Users\mathe\Cursos\udemy-csharp\aulas\49EstruturaTryCatch\obj\Debug\net8.0\49EstruturaTryCatch.pdb
+C:\Users\mathe\Cursos\udemy-csharp\aulas\49EstruturaTryCatch\obj\Debug\net8.0\49EstruturaTryCatch.genruntimeconfig.cache
+C:\Users\mathe\Cursos\udemy-csharp\aulas\49EstruturaTryCatch\obj\Debug\net8.0\ref\49EstruturaTryCatch.dll
