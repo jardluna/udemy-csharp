@@ -1,0 +1,84 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\mathe\\Cursos\\udemy-csharp\\aulas\\53ExcecaoPersonalizadaBOA\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6A8B9F00-6159-4907-A97A-46C3B768CDDB}|53ExcecaoPersonalizadaBOA.csproj|c:\\users\\mathe\\cursos\\udemy-csharp\\aulas\\53excecaopersonalizadaboa\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6A8B9F00-6159-4907-A97A-46C3B768CDDB}|53ExcecaoPersonalizadaBOA.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6A8B9F00-6159-4907-A97A-46C3B768CDDB}|53ExcecaoPersonalizadaBOA.csproj|c:\\users\\mathe\\cursos\\udemy-csharp\\aulas\\53excecaopersonalizadaboa\\entities\\exceptions\\domainexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6A8B9F00-6159-4907-A97A-46C3B768CDDB}|53ExcecaoPersonalizadaBOA.csproj|solutionrelative:entities\\exceptions\\domainexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6A8B9F00-6159-4907-A97A-46C3B768CDDB}|53ExcecaoPersonalizadaBOA.csproj|c:\\users\\mathe\\cursos\\udemy-csharp\\aulas\\53excecaopersonalizadaboa\\entities\\reservation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6A8B9F00-6159-4907-A97A-46C3B768CDDB}|53ExcecaoPersonalizadaBOA.csproj|solutionrelative:entities\\reservation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\mathe\\Cursos\\udemy-csharp\\aulas\\53ExcecaoPersonalizadaBOA\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\mathe\\Cursos\\udemy-csharp\\aulas\\53ExcecaoPersonalizadaBOA\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB4AAABAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-30T22:03:07.44Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Reservation.cs",
+              "DocumentMoniker": "C:\\Users\\mathe\\Cursos\\udemy-csharp\\aulas\\53ExcecaoPersonalizadaBOA\\Entities\\Reservation.cs",
+              "RelativeDocumentMoniker": "Entities\\Reservation.cs",
+              "ToolTip": "C:\\Users\\mathe\\Cursos\\udemy-csharp\\aulas\\53ExcecaoPersonalizadaBOA\\Entities\\Reservation.cs",
+              "RelativeToolTip": "Entities\\Reservation.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-30T22:03:59.929Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "DomainException.cs",
+              "DocumentMoniker": "C:\\Users\\mathe\\Cursos\\udemy-csharp\\aulas\\53ExcecaoPersonalizadaBOA\\Entities\\Exceptions\\DomainException.cs",
+              "RelativeDocumentMoniker": "Entities\\Exceptions\\DomainException.cs",
+              "ToolTip": "C:\\Users\\mathe\\Cursos\\udemy-csharp\\aulas\\53ExcecaoPersonalizadaBOA\\Entities\\Exceptions\\DomainException.cs",
+              "RelativeToolTip": "Entities\\Exceptions\\DomainException.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-30T22:07:20.941Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

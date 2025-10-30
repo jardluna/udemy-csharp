@@ -1,0 +1,15 @@
+C:\Users\mathe\Cursos\udemy-csharp\aulas\53ExcecaoPersonalizadaBOA\bin\Debug\net8.0\53ExcecaoPersonalizadaBOA.exe
+C:\Users\mathe\Cursos\udemy-csharp\aulas\53ExcecaoPersonalizadaBOA\bin\Debug\net8.0\53ExcecaoPersonalizadaBOA.deps.json
+C:\Users\mathe\Cursos\udemy-csharp\aulas\53ExcecaoPersonalizadaBOA\bin\Debug\net8.0\53ExcecaoPersonalizadaBOA.runtimeconfig.json
+C:\Users\mathe\Cursos\udemy-csharp\aulas\53ExcecaoPersonalizadaBOA\bin\Debug\net8.0\53ExcecaoPersonalizadaBOA.dll
+C:\Users\mathe\Cursos\udemy-csharp\aulas\53ExcecaoPersonalizadaBOA\bin\Debug\net8.0\53ExcecaoPersonalizadaBOA.pdb
+C:\Users\mathe\Cursos\udemy-csharp\aulas\53ExcecaoPersonalizadaBOA\obj\Debug\net8.0\53ExcecaoPersonalizadaBOA.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mathe\Cursos\udemy-csharp\aulas\53ExcecaoPersonalizadaBOA\obj\Debug\net8.0\53ExcecaoPersonalizadaBOA.AssemblyInfoInputs.cache
+C:\Users\mathe\Cursos\udemy-csharp\aulas\53ExcecaoPersonalizadaBOA\obj\Debug\net8.0\53ExcecaoPersonalizadaBOA.AssemblyInfo.cs
+C:\Users\mathe\Cursos\udemy-csharp\aulas\53ExcecaoPersonalizadaBOA\obj\Debug\net8.0\53ExcecaoPersonalizadaBOA.csproj.CoreCompileInputs.cache
+C:\Users\mathe\Cursos\udemy-csharp\aulas\53ExcecaoPersonalizadaBOA\obj\Debug\net8.0\53ExcecaoPersonalizadaBOA.sourcelink.json
+C:\Users\mathe\Cursos\udemy-csharp\aulas\53ExcecaoPersonalizadaBOA\obj\Debug\net8.0\53ExcecaoPersonalizadaBOA.dll
+C:\Users\mathe\Cursos\udemy-csharp\aulas\53ExcecaoPersonalizadaBOA\obj\Debug\net8.0\refint\53ExcecaoPersonalizadaBOA.dll
+C:\Users\mathe\Cursos\udemy-csharp\aulas\53ExcecaoPersonalizadaBOA\obj\Debug\net8.0\53ExcecaoPersonalizadaBOA.pdb
+C:\Users\mathe\Cursos\udemy-csharp\aulas\53ExcecaoPersonalizadaBOA\obj\Debug\net8.0\53ExcecaoPersonalizadaBOA.genruntimeconfig.cache
+C:\Users\mathe\Cursos\udemy-csharp\aulas\53ExcecaoPersonalizadaBOA\obj\Debug\net8.0\ref\53ExcecaoPersonalizadaBOA.dll
