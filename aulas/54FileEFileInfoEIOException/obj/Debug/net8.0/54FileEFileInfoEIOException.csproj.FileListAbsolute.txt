@@ -1,0 +1,15 @@
+C:\Users\mathe\Cursos\udemy-csharp\aulas\54FileEFileInfoEIOException\bin\Debug\net8.0\54FileEFileInfoEIOException.exe
+C:\Users\mathe\Cursos\udemy-csharp\aulas\54FileEFileInfoEIOException\bin\Debug\net8.0\54FileEFileInfoEIOException.deps.json
+C:\Users\mathe\Cursos\udemy-csharp\aulas\54FileEFileInfoEIOException\bin\Debug\net8.0\54FileEFileInfoEIOException.runtimeconfig.json
+C:\Users\mathe\Cursos\udemy-csharp\aulas\54FileEFileInfoEIOException\bin\Debug\net8.0\54FileEFileInfoEIOException.dll
+C:\Users\mathe\Cursos\udemy-csharp\aulas\54FileEFileInfoEIOException\bin\Debug\net8.0\54FileEFileInfoEIOException.pdb
+C:\Users\mathe\Cursos\udemy-csharp\aulas\54FileEFileInfoEIOException\obj\Debug\net8.0\54FileEFileInfoEIOException.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mathe\Cursos\udemy-csharp\aulas\54FileEFileInfoEIOException\obj\Debug\net8.0\54FileEFileInfoEIOException.AssemblyInfoInputs.cache
+C:\Users\mathe\Cursos\udemy-csharp\aulas\54FileEFileInfoEIOException\obj\Debug\net8.0\54FileEFileInfoEIOException.AssemblyInfo.cs
+C:\Users\mathe\Cursos\udemy-csharp\aulas\54FileEFileInfoEIOException\obj\Debug\net8.0\54FileEFileInfoEIOException.csproj.CoreCompileInputs.cache
+C:\Users\mathe\Cursos\udemy-csharp\aulas\54FileEFileInfoEIOException\obj\Debug\net8.0\54FileEFileInfoEIOException.sourcelink.json
+C:\Users\mathe\Cursos\udemy-csharp\aulas\54FileEFileInfoEIOException\obj\Debug\net8.0\54FileEFileInfoEIOException.dll
+C:\Users\mathe\Cursos\udemy-csharp\aulas\54FileEFileInfoEIOException\obj\Debug\net8.0\refint\54FileEFileInfoEIOException.dll
+C:\Users\mathe\Cursos\udemy-csharp\aulas\54FileEFileInfoEIOException\obj\Debug\net8.0\54FileEFileInfoEIOException.pdb
+C:\Users\mathe\Cursos\udemy-csharp\aulas\54FileEFileInfoEIOException\obj\Debug\net8.0\54FileEFileInfoEIOException.genruntimeconfig.cache
+C:\Users\mathe\Cursos\udemy-csharp\aulas\54FileEFileInfoEIOException\obj\Debug\net8.0\ref\54FileEFileInfoEIOException.dll

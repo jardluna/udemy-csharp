@@ -1,0 +1,2 @@
+Teste de cópia com FileInfo
+E teste de leitura com File
