@@ -1,0 +1,15 @@
+C:\Users\mathe\Cursos\udemy-csharp\aulas\55FileStreamEStreamReader\bin\Debug\net8.0\55FileStreamEStreamReader.exe
+C:\Users\mathe\Cursos\udemy-csharp\aulas\55FileStreamEStreamReader\bin\Debug\net8.0\55FileStreamEStreamReader.deps.json
+C:\Users\mathe\Cursos\udemy-csharp\aulas\55FileStreamEStreamReader\bin\Debug\net8.0\55FileStreamEStreamReader.runtimeconfig.json
+C:\Users\mathe\Cursos\udemy-csharp\aulas\55FileStreamEStreamReader\bin\Debug\net8.0\55FileStreamEStreamReader.dll
+C:\Users\mathe\Cursos\udemy-csharp\aulas\55FileStreamEStreamReader\bin\Debug\net8.0\55FileStreamEStreamReader.pdb
+C:\Users\mathe\Cursos\udemy-csharp\aulas\55FileStreamEStreamReader\obj\Debug\net8.0\55FileStreamEStreamReader.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mathe\Cursos\udemy-csharp\aulas\55FileStreamEStreamReader\obj\Debug\net8.0\55FileStreamEStreamReader.AssemblyInfoInputs.cache
+C:\Users\mathe\Cursos\udemy-csharp\aulas\55FileStreamEStreamReader\obj\Debug\net8.0\55FileStreamEStreamReader.AssemblyInfo.cs
+C:\Users\mathe\Cursos\udemy-csharp\aulas\55FileStreamEStreamReader\obj\Debug\net8.0\55FileStreamEStreamReader.csproj.CoreCompileInputs.cache
+C:\Users\mathe\Cursos\udemy-csharp\aulas\55FileStreamEStreamReader\obj\Debug\net8.0\55FileStreamEStreamReader.sourcelink.json
+C:\Users\mathe\Cursos\udemy-csharp\aulas\55FileStreamEStreamReader\obj\Debug\net8.0\55FileStreamEStreamReader.dll
+C:\Users\mathe\Cursos\udemy-csharp\aulas\55FileStreamEStreamReader\obj\Debug\net8.0\refint\55FileStreamEStreamReader.dll
+C:\Users\mathe\Cursos\udemy-csharp\aulas\55FileStreamEStreamReader\obj\Debug\net8.0\55FileStreamEStreamReader.pdb
+C:\Users\mathe\Cursos\udemy-csharp\aulas\55FileStreamEStreamReader\obj\Debug\net8.0\55FileStreamEStreamReader.genruntimeconfig.cache
+C:\Users\mathe\Cursos\udemy-csharp\aulas\55FileStreamEStreamReader\obj\Debug\net8.0\ref\55FileStreamEStreamReader.dll
