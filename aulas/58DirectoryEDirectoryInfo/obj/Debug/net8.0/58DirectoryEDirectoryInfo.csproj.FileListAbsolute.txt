@@ -1,0 +1,15 @@
+C:\Users\mathe\Cursos\udemy-csharp\aulas\58DirectoryEDirectoryInfo\bin\Debug\net8.0\58DirectoryEDirectoryInfo.exe
+C:\Users\mathe\Cursos\udemy-csharp\aulas\58DirectoryEDirectoryInfo\bin\Debug\net8.0\58DirectoryEDirectoryInfo.deps.json
+C:\Users\mathe\Cursos\udemy-csharp\aulas\58DirectoryEDirectoryInfo\bin\Debug\net8.0\58DirectoryEDirectoryInfo.runtimeconfig.json
+C:\Users\mathe\Cursos\udemy-csharp\aulas\58DirectoryEDirectoryInfo\bin\Debug\net8.0\58DirectoryEDirectoryInfo.dll
+C:\Users\mathe\Cursos\udemy-csharp\aulas\58DirectoryEDirectoryInfo\bin\Debug\net8.0\58DirectoryEDirectoryInfo.pdb
+C:\Users\mathe\Cursos\udemy-csharp\aulas\58DirectoryEDirectoryInfo\obj\Debug\net8.0\58DirectoryEDirectoryInfo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mathe\Cursos\udemy-csharp\aulas\58DirectoryEDirectoryInfo\obj\Debug\net8.0\58DirectoryEDirectoryInfo.AssemblyInfoInputs.cache
+C:\Users\mathe\Cursos\udemy-csharp\aulas\58DirectoryEDirectoryInfo\obj\Debug\net8.0\58DirectoryEDirectoryInfo.AssemblyInfo.cs
+C:\Users\mathe\Cursos\udemy-csharp\aulas\58DirectoryEDirectoryInfo\obj\Debug\net8.0\58DirectoryEDirectoryInfo.csproj.CoreCompileInputs.cache
+C:\Users\mathe\Cursos\udemy-csharp\aulas\58DirectoryEDirectoryInfo\obj\Debug\net8.0\58DirectoryEDirectoryInfo.sourcelink.json
+C:\Users\mathe\Cursos\udemy-csharp\aulas\58DirectoryEDirectoryInfo\obj\Debug\net8.0\58DirectoryEDirectoryInfo.dll
+C:\Users\mathe\Cursos\udemy-csharp\aulas\58DirectoryEDirectoryInfo\obj\Debug\net8.0\refint\58DirectoryEDirectoryInfo.dll
+C:\Users\mathe\Cursos\udemy-csharp\aulas\58DirectoryEDirectoryInfo\obj\Debug\net8.0\58DirectoryEDirectoryInfo.pdb
+C:\Users\mathe\Cursos\udemy-csharp\aulas\58DirectoryEDirectoryInfo\obj\Debug\net8.0\58DirectoryEDirectoryInfo.genruntimeconfig.cache
+C:\Users\mathe\Cursos\udemy-csharp\aulas\58DirectoryEDirectoryInfo\obj\Debug\net8.0\ref\58DirectoryEDirectoryInfo.dll
