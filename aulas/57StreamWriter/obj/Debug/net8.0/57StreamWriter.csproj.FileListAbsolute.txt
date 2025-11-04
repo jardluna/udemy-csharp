@@ -1,0 +1,15 @@
+C:\Users\mathe\Cursos\udemy-csharp\aulas\57StreamWriter\bin\Debug\net8.0\57StreamWriter.exe
+C:\Users\mathe\Cursos\udemy-csharp\aulas\57StreamWriter\bin\Debug\net8.0\57StreamWriter.deps.json
+C:\Users\mathe\Cursos\udemy-csharp\aulas\57StreamWriter\bin\Debug\net8.0\57StreamWriter.runtimeconfig.json
+C:\Users\mathe\Cursos\udemy-csharp\aulas\57StreamWriter\bin\Debug\net8.0\57StreamWriter.dll
+C:\Users\mathe\Cursos\udemy-csharp\aulas\57StreamWriter\bin\Debug\net8.0\57StreamWriter.pdb
+C:\Users\mathe\Cursos\udemy-csharp\aulas\57StreamWriter\obj\Debug\net8.0\57StreamWriter.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mathe\Cursos\udemy-csharp\aulas\57StreamWriter\obj\Debug\net8.0\57StreamWriter.AssemblyInfoInputs.cache
+C:\Users\mathe\Cursos\udemy-csharp\aulas\57StreamWriter\obj\Debug\net8.0\57StreamWriter.AssemblyInfo.cs
+C:\Users\mathe\Cursos\udemy-csharp\aulas\57StreamWriter\obj\Debug\net8.0\57StreamWriter.csproj.CoreCompileInputs.cache
+C:\Users\mathe\Cursos\udemy-csharp\aulas\57StreamWriter\obj\Debug\net8.0\57StreamWriter.sourcelink.json
+C:\Users\mathe\Cursos\udemy-csharp\aulas\57StreamWriter\obj\Debug\net8.0\57StreamWriter.dll
+C:\Users\mathe\Cursos\udemy-csharp\aulas\57StreamWriter\obj\Debug\net8.0\refint\57StreamWriter.dll
+C:\Users\mathe\Cursos\udemy-csharp\aulas\57StreamWriter\obj\Debug\net8.0\57StreamWriter.pdb
+C:\Users\mathe\Cursos\udemy-csharp\aulas\57StreamWriter\obj\Debug\net8.0\57StreamWriter.genruntimeconfig.cache
+C:\Users\mathe\Cursos\udemy-csharp\aulas\57StreamWriter\obj\Debug\net8.0\ref\57StreamWriter.dll
