@@ -1,0 +1,15 @@
+C:\Users\mathe\Cursos\udemy-csharp\aulas\56BlocoUsing\bin\Debug\net8.0\56BlocoUsing.exe
+C:\Users\mathe\Cursos\udemy-csharp\aulas\56BlocoUsing\bin\Debug\net8.0\56BlocoUsing.deps.json
+C:\Users\mathe\Cursos\udemy-csharp\aulas\56BlocoUsing\bin\Debug\net8.0\56BlocoUsing.runtimeconfig.json
+C:\Users\mathe\Cursos\udemy-csharp\aulas\56BlocoUsing\bin\Debug\net8.0\56BlocoUsing.dll
+C:\Users\mathe\Cursos\udemy-csharp\aulas\56BlocoUsing\bin\Debug\net8.0\56BlocoUsing.pdb
+C:\Users\mathe\Cursos\udemy-csharp\aulas\56BlocoUsing\obj\Debug\net8.0\56BlocoUsing.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mathe\Cursos\udemy-csharp\aulas\56BlocoUsing\obj\Debug\net8.0\56BlocoUsing.AssemblyInfoInputs.cache
+C:\Users\mathe\Cursos\udemy-csharp\aulas\56BlocoUsing\obj\Debug\net8.0\56BlocoUsing.AssemblyInfo.cs
+C:\Users\mathe\Cursos\udemy-csharp\aulas\56BlocoUsing\obj\Debug\net8.0\56BlocoUsing.csproj.CoreCompileInputs.cache
+C:\Users\mathe\Cursos\udemy-csharp\aulas\56BlocoUsing\obj\Debug\net8.0\56BlocoUsing.sourcelink.json
+C:\Users\mathe\Cursos\udemy-csharp\aulas\56BlocoUsing\obj\Debug\net8.0\56BlocoUsing.dll
+C:\Users\mathe\Cursos\udemy-csharp\aulas\56BlocoUsing\obj\Debug\net8.0\refint\56BlocoUsing.dll
+C:\Users\mathe\Cursos\udemy-csharp\aulas\56BlocoUsing\obj\Debug\net8.0\56BlocoUsing.pdb
+C:\Users\mathe\Cursos\udemy-csharp\aulas\56BlocoUsing\obj\Debug\net8.0\56BlocoUsing.genruntimeconfig.cache
+C:\Users\mathe\Cursos\udemy-csharp\aulas\56BlocoUsing\obj\Debug\net8.0\ref\56BlocoUsing.dll
