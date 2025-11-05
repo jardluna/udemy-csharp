@@ -5,6 +5,10 @@
     {
       "AbsoluteMoniker": "D:0:0:{D2A4DA2E-EA12-48B1-B82E-D2B193DEA312}|29Exercicio-poo.csproj|c:\\users\\mathe\\cursos\\udemy-csharp\\exercicios\\29exercicio-poo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{D2A4DA2E-EA12-48B1-B82E-D2B193DEA312}|29Exercicio-poo.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D2A4DA2E-EA12-48B1-B82E-D2B193DEA312}|29Exercicio-poo.csproj|c:\\users\\mathe\\cursos\\udemy-csharp\\exercicios\\29exercicio-poo\\entities\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D2A4DA2E-EA12-48B1-B82E-D2B193DEA312}|29Exercicio-poo.csproj|solutionrelative:entities\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -14,8 +18,22 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 0,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\mathe\\Cursos\\udemy-csharp\\exercicios\\29Exercicio-poo\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\mathe\\Cursos\\udemy-csharp\\exercicios\\29Exercicio-poo\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB8AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-05T22:29:26.025Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
             {
               "$type": "Bookmark",
               "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
@@ -30,15 +48,15 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\mathe\\Cursos\\udemy-csharp\\exercicios\\29Exercicio-poo\\Program.cs",
-              "RelativeDocumentMoniker": "Program.cs",
-              "ToolTip": "C:\\Users\\mathe\\Cursos\\udemy-csharp\\exercicios\\29Exercicio-poo\\Program.cs",
-              "RelativeToolTip": "Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "DocumentIndex": 1,
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\Users\\mathe\\Cursos\\udemy-csharp\\exercicios\\29Exercicio-poo\\Entities\\Product.cs",
+              "RelativeDocumentMoniker": "Entities\\Product.cs",
+              "ToolTip": "C:\\Users\\mathe\\Cursos\\udemy-csharp\\exercicios\\29Exercicio-poo\\Entities\\Product.cs",
+              "RelativeToolTip": "Entities\\Product.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAYAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-05T22:29:26.025Z",
+              "WhenOpened": "2025-11-05T23:09:40.585Z",
               "EditorCaption": ""
             }
           ]
