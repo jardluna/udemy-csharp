@@ -1,0 +1,15 @@
+C:\Users\mathe\Cursos\udemy-csharp\aulas\59Path\bin\Debug\net8.0\59Path.exe
+C:\Users\mathe\Cursos\udemy-csharp\aulas\59Path\bin\Debug\net8.0\59Path.deps.json
+C:\Users\mathe\Cursos\udemy-csharp\aulas\59Path\bin\Debug\net8.0\59Path.runtimeconfig.json
+C:\Users\mathe\Cursos\udemy-csharp\aulas\59Path\bin\Debug\net8.0\59Path.dll
+C:\Users\mathe\Cursos\udemy-csharp\aulas\59Path\bin\Debug\net8.0\59Path.pdb
+C:\Users\mathe\Cursos\udemy-csharp\aulas\59Path\obj\Debug\net8.0\59Path.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mathe\Cursos\udemy-csharp\aulas\59Path\obj\Debug\net8.0\59Path.AssemblyInfoInputs.cache
+C:\Users\mathe\Cursos\udemy-csharp\aulas\59Path\obj\Debug\net8.0\59Path.AssemblyInfo.cs
+C:\Users\mathe\Cursos\udemy-csharp\aulas\59Path\obj\Debug\net8.0\59Path.csproj.CoreCompileInputs.cache
+C:\Users\mathe\Cursos\udemy-csharp\aulas\59Path\obj\Debug\net8.0\59Path.sourcelink.json
+C:\Users\mathe\Cursos\udemy-csharp\aulas\59Path\obj\Debug\net8.0\59Path.dll
+C:\Users\mathe\Cursos\udemy-csharp\aulas\59Path\obj\Debug\net8.0\refint\59Path.dll
+C:\Users\mathe\Cursos\udemy-csharp\aulas\59Path\obj\Debug\net8.0\59Path.pdb
+C:\Users\mathe\Cursos\udemy-csharp\aulas\59Path\obj\Debug\net8.0\59Path.genruntimeconfig.cache
+C:\Users\mathe\Cursos\udemy-csharp\aulas\59Path\obj\Debug\net8.0\ref\59Path.dll
