@@ -1,0 +1,15 @@
+C:\Users\mathe\Cursos\udemy-csharp\aulas\61SolucaoComInterface\bin\Debug\net8.0\61SolucaoComInterface.exe
+C:\Users\mathe\Cursos\udemy-csharp\aulas\61SolucaoComInterface\bin\Debug\net8.0\61SolucaoComInterface.deps.json
+C:\Users\mathe\Cursos\udemy-csharp\aulas\61SolucaoComInterface\bin\Debug\net8.0\61SolucaoComInterface.runtimeconfig.json
+C:\Users\mathe\Cursos\udemy-csharp\aulas\61SolucaoComInterface\bin\Debug\net8.0\61SolucaoComInterface.dll
+C:\Users\mathe\Cursos\udemy-csharp\aulas\61SolucaoComInterface\bin\Debug\net8.0\61SolucaoComInterface.pdb
+C:\Users\mathe\Cursos\udemy-csharp\aulas\61SolucaoComInterface\obj\Debug\net8.0\61SolucaoComInterface.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mathe\Cursos\udemy-csharp\aulas\61SolucaoComInterface\obj\Debug\net8.0\61SolucaoComInterface.AssemblyInfoInputs.cache
+C:\Users\mathe\Cursos\udemy-csharp\aulas\61SolucaoComInterface\obj\Debug\net8.0\61SolucaoComInterface.AssemblyInfo.cs
+C:\Users\mathe\Cursos\udemy-csharp\aulas\61SolucaoComInterface\obj\Debug\net8.0\61SolucaoComInterface.csproj.CoreCompileInputs.cache
+C:\Users\mathe\Cursos\udemy-csharp\aulas\61SolucaoComInterface\obj\Debug\net8.0\61SolucaoComInterface.sourcelink.json
+C:\Users\mathe\Cursos\udemy-csharp\aulas\61SolucaoComInterface\obj\Debug\net8.0\61SolucaoComInterface.dll
+C:\Users\mathe\Cursos\udemy-csharp\aulas\61SolucaoComInterface\obj\Debug\net8.0\refint\61SolucaoComInterface.dll
+C:\Users\mathe\Cursos\udemy-csharp\aulas\61SolucaoComInterface\obj\Debug\net8.0\61SolucaoComInterface.pdb
+C:\Users\mathe\Cursos\udemy-csharp\aulas\61SolucaoComInterface\obj\Debug\net8.0\61SolucaoComInterface.genruntimeconfig.cache
+C:\Users\mathe\Cursos\udemy-csharp\aulas\61SolucaoComInterface\obj\Debug\net8.0\ref\61SolucaoComInterface.dll
