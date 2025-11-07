@@ -29,7 +29,4 @@ Console.WriteLine();
 Console.WriteLine("INVOICE");
 Console.WriteLine(carRental.Invoice);
 
-Console.WriteLine();
-Console.WriteLine(rentalService.Teste(carRental));
-
 Console.WriteLine("====================================================================================");

@@ -28,7 +28,7 @@ namespace _60SolucaoSemInterface.Services
             }
             else
             {
-                basicPayment = PricePerDay * Math.Ceiling(duration.TotalHours);
+                basicPayment = PricePerDay * Math.Ceiling(duration.TotalDays);
             }
 
             double tax = _brazilTaxService.Tax(basicPayment);

@@ -3,12 +3,12 @@
   "WorkspaceRootPath": "C:\\Users\\mathe\\Cursos\\udemy-csharp\\aulas\\60SolucaoSemInterface\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{9C09ECB2-48D2-4699-A492-DE4AA63A415C}|60SolucaoSemInterface.csproj|c:\\users\\mathe\\cursos\\udemy-csharp\\aulas\\60solucaoseminterface\\services\\rentalservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9C09ECB2-48D2-4699-A492-DE4AA63A415C}|60SolucaoSemInterface.csproj|solutionrelative:services\\rentalservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{9C09ECB2-48D2-4699-A492-DE4AA63A415C}|60SolucaoSemInterface.csproj|c:\\users\\mathe\\cursos\\udemy-csharp\\aulas\\60solucaoseminterface\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{9C09ECB2-48D2-4699-A492-DE4AA63A415C}|60SolucaoSemInterface.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9C09ECB2-48D2-4699-A492-DE4AA63A415C}|60SolucaoSemInterface.csproj|c:\\users\\mathe\\cursos\\udemy-csharp\\aulas\\60solucaoseminterface\\services\\rentalservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9C09ECB2-48D2-4699-A492-DE4AA63A415C}|60SolucaoSemInterface.csproj|solutionrelative:services\\rentalservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{9C09ECB2-48D2-4699-A492-DE4AA63A415C}|60SolucaoSemInterface.csproj|c:\\users\\mathe\\cursos\\udemy-csharp\\aulas\\60solucaoseminterface\\entities\\carrental.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -34,17 +34,17 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 8,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\mathe\\Cursos\\udemy-csharp\\aulas\\60SolucaoSemInterface\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
               "ToolTip": "C:\\Users\\mathe\\Cursos\\udemy-csharp\\aulas\\60SolucaoSemInterface\\Program.cs",
               "RelativeToolTip": "Program.cs",
-              "ViewState": "AgIAAAkAAAAAAAAAAAAAACAAAAAyAAAAAAAAAA==",
+              "ViewState": "AgIAABIAAAAAAAAAAAAAAB0AAAAlAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-11-06T00:35:35.588Z",
               "IsPinned": true,
@@ -85,8 +85,7 @@
               "RelativeToolTip": "Entities\\Invoice.cs",
               "ViewState": "AgIAAAkAAAAAAAAAAAAowA8AAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-06T00:33:56.299Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-11-06T00:33:56.299Z"
             },
             {
               "$type": "Document",
@@ -98,8 +97,7 @@
               "RelativeToolTip": "Entities\\Vehicle.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAVAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-06T00:31:55.723Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-11-06T00:31:55.723Z"
             },
             {
               "$type": "Document",
@@ -111,18 +109,17 @@
               "RelativeToolTip": "Services\\BrazilTaxService.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAjAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-06T21:56:25.162Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-11-06T21:56:25.162Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "RentalService.cs",
               "DocumentMoniker": "C:\\Users\\mathe\\Cursos\\udemy-csharp\\aulas\\60SolucaoSemInterface\\Services\\RentalService.cs",
               "RelativeDocumentMoniker": "Services\\RentalService.cs",
               "ToolTip": "C:\\Users\\mathe\\Cursos\\udemy-csharp\\aulas\\60SolucaoSemInterface\\Services\\RentalService.cs",
               "RelativeToolTip": "Services\\RentalService.cs",
-              "ViewState": "AgIAABYAAAAAAAAAAAAcwCQAAAAJAAAAAAAAAA==",
+              "ViewState": "AgIAABwAAAAAAAAAAAAcwCQAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-11-06T21:56:13.207Z",
               "EditorCaption": ""

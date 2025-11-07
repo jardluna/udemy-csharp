@@ -44,7 +44,7 @@
               "RelativeDocumentMoniker": "Program.cs",
               "ToolTip": "C:\\Users\\mathe\\Cursos\\udemy-csharp\\aulas\\60SolucaoSemInterface\\Program.cs",
               "RelativeToolTip": "Program.cs",
-              "ViewState": "AgIAAAkAAAAAAAAAAAAAACAAAAAyAAAAAAAAAA==",
+              "ViewState": "AgIAABIAAAAAAAAAAAAAAB0AAAAlAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-11-06T00:35:35.588Z",
               "IsPinned": true,
@@ -85,8 +85,7 @@
               "RelativeToolTip": "Entities\\Invoice.cs",
               "ViewState": "AgIAAAkAAAAAAAAAAAAowA8AAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-06T00:33:56.299Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-11-06T00:33:56.299Z"
             },
             {
               "$type": "Document",
@@ -98,8 +97,7 @@
               "RelativeToolTip": "Entities\\Vehicle.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAVAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-06T00:31:55.723Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-11-06T00:31:55.723Z"
             },
             {
               "$type": "Document",
@@ -111,8 +109,7 @@
               "RelativeToolTip": "Services\\BrazilTaxService.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAjAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-06T21:56:25.162Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-11-06T21:56:25.162Z"
             },
             {
               "$type": "Document",
@@ -122,7 +119,7 @@
               "RelativeDocumentMoniker": "Services\\RentalService.cs",
               "ToolTip": "C:\\Users\\mathe\\Cursos\\udemy-csharp\\aulas\\60SolucaoSemInterface\\Services\\RentalService.cs",
               "RelativeToolTip": "Services\\RentalService.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAACQAAAAJAAAAAAAAAA==",
+              "ViewState": "AgIAABEAAAAAAAAAAAAIwCQAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-11-06T21:56:13.207Z",
               "EditorCaption": ""
