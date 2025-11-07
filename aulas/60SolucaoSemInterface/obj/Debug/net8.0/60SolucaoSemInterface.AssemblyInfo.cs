@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("60SolucaoSemInterface")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+f42e712096d9c5a5c0b6002303a0d4a322203825")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+24a1665df758840f2dc20320741bf30c13400ade")]
 [assembly: System.Reflection.AssemblyProductAttribute("60SolucaoSemInterface")]
 [assembly: System.Reflection.AssemblyTitleAttribute("60SolucaoSemInterface")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

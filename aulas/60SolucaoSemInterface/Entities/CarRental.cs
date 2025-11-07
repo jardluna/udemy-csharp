@@ -1,10 +1,4 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
-
-namespace _60SolucaoSemInterface.Entities
+﻿namespace _60SolucaoSemInterface.Entities
 {
     public class CarRental
     {
@@ -19,6 +13,7 @@ namespace _60SolucaoSemInterface.Entities
             Start = start;
             Finish = finish;
             Vehicle = vehicle;
+            Invoice = null;
         }
     }
 }

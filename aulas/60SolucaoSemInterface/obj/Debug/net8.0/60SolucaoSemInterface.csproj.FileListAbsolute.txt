@@ -1,0 +1,15 @@
+C:\Users\mathe\Cursos\udemy-csharp\aulas\60SolucaoSemInterface\obj\Debug\net8.0\60SolucaoSemInterface.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mathe\Cursos\udemy-csharp\aulas\60SolucaoSemInterface\obj\Debug\net8.0\60SolucaoSemInterface.AssemblyInfoInputs.cache
+C:\Users\mathe\Cursos\udemy-csharp\aulas\60SolucaoSemInterface\obj\Debug\net8.0\60SolucaoSemInterface.AssemblyInfo.cs
+C:\Users\mathe\Cursos\udemy-csharp\aulas\60SolucaoSemInterface\obj\Debug\net8.0\60SolucaoSemInterface.csproj.CoreCompileInputs.cache
+C:\Users\mathe\Cursos\udemy-csharp\aulas\60SolucaoSemInterface\obj\Debug\net8.0\60SolucaoSemInterface.sourcelink.json
+C:\Users\mathe\Cursos\udemy-csharp\aulas\60SolucaoSemInterface\bin\Debug\net8.0\60SolucaoSemInterface.exe
+C:\Users\mathe\Cursos\udemy-csharp\aulas\60SolucaoSemInterface\bin\Debug\net8.0\60SolucaoSemInterface.deps.json
+C:\Users\mathe\Cursos\udemy-csharp\aulas\60SolucaoSemInterface\bin\Debug\net8.0\60SolucaoSemInterface.runtimeconfig.json
+C:\Users\mathe\Cursos\udemy-csharp\aulas\60SolucaoSemInterface\bin\Debug\net8.0\60SolucaoSemInterface.dll
+C:\Users\mathe\Cursos\udemy-csharp\aulas\60SolucaoSemInterface\bin\Debug\net8.0\60SolucaoSemInterface.pdb
+C:\Users\mathe\Cursos\udemy-csharp\aulas\60SolucaoSemInterface\obj\Debug\net8.0\60SolucaoSemInterface.dll
+C:\Users\mathe\Cursos\udemy-csharp\aulas\60SolucaoSemInterface\obj\Debug\net8.0\refint\60SolucaoSemInterface.dll
+C:\Users\mathe\Cursos\udemy-csharp\aulas\60SolucaoSemInterface\obj\Debug\net8.0\60SolucaoSemInterface.pdb
+C:\Users\mathe\Cursos\udemy-csharp\aulas\60SolucaoSemInterface\obj\Debug\net8.0\60SolucaoSemInterface.genruntimeconfig.cache
+C:\Users\mathe\Cursos\udemy-csharp\aulas\60SolucaoSemInterface\obj\Debug\net8.0\ref\60SolucaoSemInterface.dll

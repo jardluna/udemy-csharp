@@ -3,6 +3,10 @@
   "WorkspaceRootPath": "C:\\Users\\mathe\\Cursos\\udemy-csharp\\aulas\\60SolucaoSemInterface\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{9C09ECB2-48D2-4699-A492-DE4AA63A415C}|60SolucaoSemInterface.csproj|c:\\users\\mathe\\cursos\\udemy-csharp\\aulas\\60solucaoseminterface\\services\\rentalservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9C09ECB2-48D2-4699-A492-DE4AA63A415C}|60SolucaoSemInterface.csproj|solutionrelative:services\\rentalservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{9C09ECB2-48D2-4699-A492-DE4AA63A415C}|60SolucaoSemInterface.csproj|c:\\users\\mathe\\cursos\\udemy-csharp\\aulas\\60solucaoseminterface\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{9C09ECB2-48D2-4699-A492-DE4AA63A415C}|60SolucaoSemInterface.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -11,12 +15,16 @@
       "RelativeMoniker": "D:0:0:{9C09ECB2-48D2-4699-A492-DE4AA63A415C}|60SolucaoSemInterface.csproj|solutionrelative:entities\\carrental.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{9C09ECB2-48D2-4699-A492-DE4AA63A415C}|60SolucaoSemInterface.csproj|c:\\users\\mathe\\cursos\\udemy-csharp\\aulas\\60solucaoseminterface\\entities\\invoice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9C09ECB2-48D2-4699-A492-DE4AA63A415C}|60SolucaoSemInterface.csproj|solutionrelative:entities\\invoice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{9C09ECB2-48D2-4699-A492-DE4AA63A415C}|60SolucaoSemInterface.csproj|c:\\users\\mathe\\cursos\\udemy-csharp\\aulas\\60solucaoseminterface\\services\\braziltaxservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9C09ECB2-48D2-4699-A492-DE4AA63A415C}|60SolucaoSemInterface.csproj|solutionrelative:services\\braziltaxservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{9C09ECB2-48D2-4699-A492-DE4AA63A415C}|60SolucaoSemInterface.csproj|c:\\users\\mathe\\cursos\\udemy-csharp\\aulas\\60solucaoseminterface\\entities\\vehicle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{9C09ECB2-48D2-4699-A492-DE4AA63A415C}|60SolucaoSemInterface.csproj|solutionrelative:entities\\vehicle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9C09ECB2-48D2-4699-A492-DE4AA63A415C}|60SolucaoSemInterface.csproj|c:\\users\\mathe\\cursos\\udemy-csharp\\aulas\\60solucaoseminterface\\entities\\invoice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9C09ECB2-48D2-4699-A492-DE4AA63A415C}|60SolucaoSemInterface.csproj|solutionrelative:entities\\invoice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -26,17 +34,17 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 8,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\mathe\\Cursos\\udemy-csharp\\aulas\\60SolucaoSemInterface\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
               "ToolTip": "C:\\Users\\mathe\\Cursos\\udemy-csharp\\aulas\\60SolucaoSemInterface\\Program.cs",
               "RelativeToolTip": "Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAA3AAAAAAAAAA==",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAACAAAAAyAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-11-06T00:35:35.588Z",
               "IsPinned": true,
@@ -56,41 +64,67 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Vehicle.cs",
-              "DocumentMoniker": "C:\\Users\\mathe\\Cursos\\udemy-csharp\\aulas\\60SolucaoSemInterface\\Entities\\Vehicle.cs",
-              "RelativeDocumentMoniker": "Entities\\Vehicle.cs",
-              "ToolTip": "C:\\Users\\mathe\\Cursos\\udemy-csharp\\aulas\\60SolucaoSemInterface\\Entities\\Vehicle.cs",
-              "RelativeToolTip": "Entities\\Vehicle.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAWAAAAAAAAAA==",
+              "DocumentIndex": 2,
+              "Title": "CarRental.cs",
+              "DocumentMoniker": "C:\\Users\\mathe\\Cursos\\udemy-csharp\\aulas\\60SolucaoSemInterface\\Entities\\CarRental.cs",
+              "RelativeDocumentMoniker": "Entities\\CarRental.cs",
+              "ToolTip": "C:\\Users\\mathe\\Cursos\\udemy-csharp\\aulas\\60SolucaoSemInterface\\Entities\\CarRental.cs",
+              "RelativeToolTip": "Entities\\CarRental.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAbAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-06T00:31:55.723Z",
+              "WhenOpened": "2025-11-06T00:32:40.391Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 5,
               "Title": "Invoice.cs",
               "DocumentMoniker": "C:\\Users\\mathe\\Cursos\\udemy-csharp\\aulas\\60SolucaoSemInterface\\Entities\\Invoice.cs",
               "RelativeDocumentMoniker": "Entities\\Invoice.cs",
               "ToolTip": "C:\\Users\\mathe\\Cursos\\udemy-csharp\\aulas\\60SolucaoSemInterface\\Entities\\Invoice.cs",
               "RelativeToolTip": "Entities\\Invoice.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAAhAAAAAAAAAA==",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAowA8AAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-11-06T00:33:56.299Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "CarRental.cs",
-              "DocumentMoniker": "C:\\Users\\mathe\\Cursos\\udemy-csharp\\aulas\\60SolucaoSemInterface\\Entities\\CarRental.cs",
-              "RelativeDocumentMoniker": "Entities\\CarRental.cs",
-              "ToolTip": "C:\\Users\\mathe\\Cursos\\udemy-csharp\\aulas\\60SolucaoSemInterface\\Entities\\CarRental.cs",
-              "RelativeToolTip": "Entities\\CarRental.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAABAAAABJAAAAAAAAAA==",
+              "DocumentIndex": 4,
+              "Title": "Vehicle.cs",
+              "DocumentMoniker": "C:\\Users\\mathe\\Cursos\\udemy-csharp\\aulas\\60SolucaoSemInterface\\Entities\\Vehicle.cs",
+              "RelativeDocumentMoniker": "Entities\\Vehicle.cs",
+              "ToolTip": "C:\\Users\\mathe\\Cursos\\udemy-csharp\\aulas\\60SolucaoSemInterface\\Entities\\Vehicle.cs",
+              "RelativeToolTip": "Entities\\Vehicle.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAVAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-06T00:32:40.391Z",
+              "WhenOpened": "2025-11-06T00:31:55.723Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "BrazilTaxService.cs",
+              "DocumentMoniker": "C:\\Users\\mathe\\Cursos\\udemy-csharp\\aulas\\60SolucaoSemInterface\\Services\\BrazilTaxService.cs",
+              "RelativeDocumentMoniker": "Services\\BrazilTaxService.cs",
+              "ToolTip": "C:\\Users\\mathe\\Cursos\\udemy-csharp\\aulas\\60SolucaoSemInterface\\Services\\BrazilTaxService.cs",
+              "RelativeToolTip": "Services\\BrazilTaxService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-06T21:56:25.162Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "RentalService.cs",
+              "DocumentMoniker": "C:\\Users\\mathe\\Cursos\\udemy-csharp\\aulas\\60SolucaoSemInterface\\Services\\RentalService.cs",
+              "RelativeDocumentMoniker": "Services\\RentalService.cs",
+              "ToolTip": "C:\\Users\\mathe\\Cursos\\udemy-csharp\\aulas\\60SolucaoSemInterface\\Services\\RentalService.cs",
+              "RelativeToolTip": "Services\\RentalService.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAAcwCQAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-06T21:56:13.207Z",
               "EditorCaption": ""
             }
           ]
