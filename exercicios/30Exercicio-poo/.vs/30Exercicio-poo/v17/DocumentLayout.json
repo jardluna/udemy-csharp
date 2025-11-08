@@ -1,0 +1,135 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\mathe\\Cursos\\udemy-csharp\\exercicios\\30Exercicio-poo\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{81303BF8-3D24-496C-897E-DE5AB1CB9CA0}|30Exercicio-poo.csproj|c:\\users\\mathe\\cursos\\udemy-csharp\\exercicios\\30exercicio-poo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{81303BF8-3D24-496C-897E-DE5AB1CB9CA0}|30Exercicio-poo.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{81303BF8-3D24-496C-897E-DE5AB1CB9CA0}|30Exercicio-poo.csproj|c:\\users\\mathe\\cursos\\udemy-csharp\\exercicios\\30exercicio-poo\\entities\\parcelas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{81303BF8-3D24-496C-897E-DE5AB1CB9CA0}|30Exercicio-poo.csproj|solutionrelative:entities\\parcelas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{81303BF8-3D24-496C-897E-DE5AB1CB9CA0}|30Exercicio-poo.csproj|c:\\users\\mathe\\cursos\\udemy-csharp\\exercicios\\30exercicio-poo\\service\\contratoservico.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{81303BF8-3D24-496C-897E-DE5AB1CB9CA0}|30Exercicio-poo.csproj|solutionrelative:service\\contratoservico.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{81303BF8-3D24-496C-897E-DE5AB1CB9CA0}|30Exercicio-poo.csproj|c:\\users\\mathe\\cursos\\udemy-csharp\\exercicios\\30exercicio-poo\\entities\\contrato.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{81303BF8-3D24-496C-897E-DE5AB1CB9CA0}|30Exercicio-poo.csproj|solutionrelative:entities\\contrato.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{81303BF8-3D24-496C-897E-DE5AB1CB9CA0}|30Exercicio-poo.csproj|c:\\users\\mathe\\cursos\\udemy-csharp\\exercicios\\30exercicio-poo\\service\\iservicopagamentoonline.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{81303BF8-3D24-496C-897E-DE5AB1CB9CA0}|30Exercicio-poo.csproj|solutionrelative:service\\iservicopagamentoonline.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{81303BF8-3D24-496C-897E-DE5AB1CB9CA0}|30Exercicio-poo.csproj|c:\\users\\mathe\\cursos\\udemy-csharp\\exercicios\\30exercicio-poo\\service\\servicopaypal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{81303BF8-3D24-496C-897E-DE5AB1CB9CA0}|30Exercicio-poo.csproj|solutionrelative:service\\servicopaypal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\mathe\\Cursos\\udemy-csharp\\exercicios\\30Exercicio-poo\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\mathe\\Cursos\\udemy-csharp\\exercicios\\30Exercicio-poo\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAA8AAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-07T23:07:53.107Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Contrato.cs",
+              "DocumentMoniker": "C:\\Users\\mathe\\Cursos\\udemy-csharp\\exercicios\\30Exercicio-poo\\Entities\\Contrato.cs",
+              "RelativeDocumentMoniker": "Entities\\Contrato.cs",
+              "ToolTip": "C:\\Users\\mathe\\Cursos\\udemy-csharp\\exercicios\\30Exercicio-poo\\Entities\\Contrato.cs",
+              "RelativeToolTip": "Entities\\Contrato.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAA1wBMAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-07T23:15:20.84Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Parcelas.cs",
+              "DocumentMoniker": "C:\\Users\\mathe\\Cursos\\udemy-csharp\\exercicios\\30Exercicio-poo\\Entities\\Parcelas.cs",
+              "RelativeDocumentMoniker": "Entities\\Parcelas.cs",
+              "ToolTip": "C:\\Users\\mathe\\Cursos\\udemy-csharp\\exercicios\\30Exercicio-poo\\Entities\\Parcelas.cs",
+              "RelativeToolTip": "Entities\\Parcelas.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAAAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-07T23:09:12.205Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ContratoServico.cs",
+              "DocumentMoniker": "C:\\Users\\mathe\\Cursos\\udemy-csharp\\exercicios\\30Exercicio-poo\\Service\\ContratoServico.cs",
+              "RelativeDocumentMoniker": "Service\\ContratoServico.cs",
+              "ToolTip": "C:\\Users\\mathe\\Cursos\\udemy-csharp\\exercicios\\30Exercicio-poo\\Service\\ContratoServico.cs",
+              "RelativeToolTip": "Service\\ContratoServico.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAxwBkAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-07T23:21:59.723Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ServicoPaypal.cs",
+              "DocumentMoniker": "C:\\Users\\mathe\\Cursos\\udemy-csharp\\exercicios\\30Exercicio-poo\\Service\\ServicoPaypal.cs",
+              "RelativeDocumentMoniker": "Service\\ServicoPaypal.cs",
+              "ToolTip": "C:\\Users\\mathe\\Cursos\\udemy-csharp\\exercicios\\30Exercicio-poo\\Service\\ServicoPaypal.cs",
+              "RelativeToolTip": "Service\\ServicoPaypal.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-07T23:21:04.23Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "IServicoPagamentoOnline.cs",
+              "DocumentMoniker": "C:\\Users\\mathe\\Cursos\\udemy-csharp\\exercicios\\30Exercicio-poo\\Service\\IServicoPagamentoOnline.cs",
+              "RelativeDocumentMoniker": "Service\\IServicoPagamentoOnline.cs",
+              "ToolTip": "C:\\Users\\mathe\\Cursos\\udemy-csharp\\exercicios\\30Exercicio-poo\\Service\\IServicoPagamentoOnline.cs",
+              "RelativeToolTip": "Service\\IServicoPagamentoOnline.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-07T23:18:29.252Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
