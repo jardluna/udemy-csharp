@@ -1,0 +1,135 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\mathe\\Cursos\\udemy-csharp\\aulas\\62HerancaComInterface\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{25D50BE4-BCA9-4ABD-A1E4-896B9FFB625B}|62HerancaComInterface.csproj|c:\\users\\mathe\\cursos\\udemy-csharp\\aulas\\62herancacominterface\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{25D50BE4-BCA9-4ABD-A1E4-896B9FFB625B}|62HerancaComInterface.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{25D50BE4-BCA9-4ABD-A1E4-896B9FFB625B}|62HerancaComInterface.csproj|c:\\users\\mathe\\cursos\\udemy-csharp\\aulas\\62herancacominterface\\entities\\abstractshape.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{25D50BE4-BCA9-4ABD-A1E4-896B9FFB625B}|62HerancaComInterface.csproj|solutionrelative:entities\\abstractshape.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{25D50BE4-BCA9-4ABD-A1E4-896B9FFB625B}|62HerancaComInterface.csproj|c:\\users\\mathe\\cursos\\udemy-csharp\\aulas\\62herancacominterface\\entities\\rectangle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{25D50BE4-BCA9-4ABD-A1E4-896B9FFB625B}|62HerancaComInterface.csproj|solutionrelative:entities\\rectangle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{25D50BE4-BCA9-4ABD-A1E4-896B9FFB625B}|62HerancaComInterface.csproj|c:\\users\\mathe\\cursos\\udemy-csharp\\aulas\\62herancacominterface\\entities\\circle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{25D50BE4-BCA9-4ABD-A1E4-896B9FFB625B}|62HerancaComInterface.csproj|solutionrelative:entities\\circle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{25D50BE4-BCA9-4ABD-A1E4-896B9FFB625B}|62HerancaComInterface.csproj|c:\\users\\mathe\\cursos\\udemy-csharp\\aulas\\62herancacominterface\\entities\\interfaces\\ishape.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{25D50BE4-BCA9-4ABD-A1E4-896B9FFB625B}|62HerancaComInterface.csproj|solutionrelative:entities\\interfaces\\ishape.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{25D50BE4-BCA9-4ABD-A1E4-896B9FFB625B}|62HerancaComInterface.csproj|c:\\users\\mathe\\cursos\\udemy-csharp\\aulas\\62herancacominterface\\enums\\color.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{25D50BE4-BCA9-4ABD-A1E4-896B9FFB625B}|62HerancaComInterface.csproj|solutionrelative:enums\\color.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\mathe\\Cursos\\udemy-csharp\\aulas\\62HerancaComInterface\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\mathe\\Cursos\\udemy-csharp\\aulas\\62HerancaComInterface\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-09T00:28:11.849Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AbstractShape.cs",
+              "DocumentMoniker": "C:\\Users\\mathe\\Cursos\\udemy-csharp\\aulas\\62HerancaComInterface\\Entities\\AbstractShape.cs",
+              "RelativeDocumentMoniker": "Entities\\AbstractShape.cs",
+              "ToolTip": "C:\\Users\\mathe\\Cursos\\udemy-csharp\\aulas\\62HerancaComInterface\\Entities\\AbstractShape.cs",
+              "RelativeToolTip": "Entities\\AbstractShape.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-09T00:55:10.121Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Circle.cs",
+              "DocumentMoniker": "C:\\Users\\mathe\\Cursos\\udemy-csharp\\aulas\\62HerancaComInterface\\Entities\\Circle.cs",
+              "RelativeDocumentMoniker": "Entities\\Circle.cs",
+              "ToolTip": "C:\\Users\\mathe\\Cursos\\udemy-csharp\\aulas\\62HerancaComInterface\\Entities\\Circle.cs",
+              "RelativeToolTip": "Entities\\Circle.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-09T00:29:30.902Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Rectangle.cs",
+              "DocumentMoniker": "C:\\Users\\mathe\\Cursos\\udemy-csharp\\aulas\\62HerancaComInterface\\Entities\\Rectangle.cs",
+              "RelativeDocumentMoniker": "Entities\\Rectangle.cs",
+              "ToolTip": "C:\\Users\\mathe\\Cursos\\udemy-csharp\\aulas\\62HerancaComInterface\\Entities\\Rectangle.cs",
+              "RelativeToolTip": "Entities\\Rectangle.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-09T00:29:22.866Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Color.cs",
+              "DocumentMoniker": "C:\\Users\\mathe\\Cursos\\udemy-csharp\\aulas\\62HerancaComInterface\\Enums\\Color.cs",
+              "RelativeDocumentMoniker": "Enums\\Color.cs",
+              "ToolTip": "C:\\Users\\mathe\\Cursos\\udemy-csharp\\aulas\\62HerancaComInterface\\Enums\\Color.cs",
+              "RelativeToolTip": "Enums\\Color.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-09T00:33:30.122Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "IShape.cs",
+              "DocumentMoniker": "C:\\Users\\mathe\\Cursos\\udemy-csharp\\aulas\\62HerancaComInterface\\Entities\\Interfaces\\IShape.cs",
+              "RelativeDocumentMoniker": "Entities\\Interfaces\\IShape.cs",
+              "ToolTip": "C:\\Users\\mathe\\Cursos\\udemy-csharp\\aulas\\62HerancaComInterface\\Entities\\Interfaces\\IShape.cs",
+              "RelativeToolTip": "Entities\\Interfaces\\IShape.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-09T00:31:46.392Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

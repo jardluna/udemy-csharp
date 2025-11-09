@@ -1,0 +1,15 @@
+C:\Users\mathe\Cursos\udemy-csharp\aulas\62HerancaComInterface\bin\Debug\net8.0\62HerancaComInterface.exe
+C:\Users\mathe\Cursos\udemy-csharp\aulas\62HerancaComInterface\bin\Debug\net8.0\62HerancaComInterface.deps.json
+C:\Users\mathe\Cursos\udemy-csharp\aulas\62HerancaComInterface\bin\Debug\net8.0\62HerancaComInterface.runtimeconfig.json
+C:\Users\mathe\Cursos\udemy-csharp\aulas\62HerancaComInterface\bin\Debug\net8.0\62HerancaComInterface.dll
+C:\Users\mathe\Cursos\udemy-csharp\aulas\62HerancaComInterface\bin\Debug\net8.0\62HerancaComInterface.pdb
+C:\Users\mathe\Cursos\udemy-csharp\aulas\62HerancaComInterface\obj\Debug\net8.0\62HerancaComInterface.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mathe\Cursos\udemy-csharp\aulas\62HerancaComInterface\obj\Debug\net8.0\62HerancaComInterface.AssemblyInfoInputs.cache
+C:\Users\mathe\Cursos\udemy-csharp\aulas\62HerancaComInterface\obj\Debug\net8.0\62HerancaComInterface.AssemblyInfo.cs
+C:\Users\mathe\Cursos\udemy-csharp\aulas\62HerancaComInterface\obj\Debug\net8.0\62HerancaComInterface.csproj.CoreCompileInputs.cache
+C:\Users\mathe\Cursos\udemy-csharp\aulas\62HerancaComInterface\obj\Debug\net8.0\62HerancaComInterface.sourcelink.json
+C:\Users\mathe\Cursos\udemy-csharp\aulas\62HerancaComInterface\obj\Debug\net8.0\62HerancaComInterface.dll
+C:\Users\mathe\Cursos\udemy-csharp\aulas\62HerancaComInterface\obj\Debug\net8.0\refint\62HerancaComInterface.dll
+C:\Users\mathe\Cursos\udemy-csharp\aulas\62HerancaComInterface\obj\Debug\net8.0\62HerancaComInterface.pdb
+C:\Users\mathe\Cursos\udemy-csharp\aulas\62HerancaComInterface\obj\Debug\net8.0\62HerancaComInterface.genruntimeconfig.cache
+C:\Users\mathe\Cursos\udemy-csharp\aulas\62HerancaComInterface\obj\Debug\net8.0\ref\62HerancaComInterface.dll
