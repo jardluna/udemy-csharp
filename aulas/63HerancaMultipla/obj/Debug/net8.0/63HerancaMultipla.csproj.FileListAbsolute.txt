@@ -1,0 +1,15 @@
+C:\Users\mathe\Cursos\udemy-csharp\aulas\63HerancaMultipla\bin\Debug\net8.0\63HerancaMultipla.exe
+C:\Users\mathe\Cursos\udemy-csharp\aulas\63HerancaMultipla\bin\Debug\net8.0\63HerancaMultipla.deps.json
+C:\Users\mathe\Cursos\udemy-csharp\aulas\63HerancaMultipla\bin\Debug\net8.0\63HerancaMultipla.runtimeconfig.json
+C:\Users\mathe\Cursos\udemy-csharp\aulas\63HerancaMultipla\bin\Debug\net8.0\63HerancaMultipla.dll
+C:\Users\mathe\Cursos\udemy-csharp\aulas\63HerancaMultipla\bin\Debug\net8.0\63HerancaMultipla.pdb
+C:\Users\mathe\Cursos\udemy-csharp\aulas\63HerancaMultipla\obj\Debug\net8.0\63HerancaMultipla.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mathe\Cursos\udemy-csharp\aulas\63HerancaMultipla\obj\Debug\net8.0\63HerancaMultipla.AssemblyInfoInputs.cache
+C:\Users\mathe\Cursos\udemy-csharp\aulas\63HerancaMultipla\obj\Debug\net8.0\63HerancaMultipla.AssemblyInfo.cs
+C:\Users\mathe\Cursos\udemy-csharp\aulas\63HerancaMultipla\obj\Debug\net8.0\63HerancaMultipla.csproj.CoreCompileInputs.cache
+C:\Users\mathe\Cursos\udemy-csharp\aulas\63HerancaMultipla\obj\Debug\net8.0\63HerancaMultipla.sourcelink.json
+C:\Users\mathe\Cursos\udemy-csharp\aulas\63HerancaMultipla\obj\Debug\net8.0\63HerancaMultipla.dll
+C:\Users\mathe\Cursos\udemy-csharp\aulas\63HerancaMultipla\obj\Debug\net8.0\refint\63HerancaMultipla.dll
+C:\Users\mathe\Cursos\udemy-csharp\aulas\63HerancaMultipla\obj\Debug\net8.0\63HerancaMultipla.pdb
+C:\Users\mathe\Cursos\udemy-csharp\aulas\63HerancaMultipla\obj\Debug\net8.0\63HerancaMultipla.genruntimeconfig.cache
+C:\Users\mathe\Cursos\udemy-csharp\aulas\63HerancaMultipla\obj\Debug\net8.0\ref\63HerancaMultipla.dll
