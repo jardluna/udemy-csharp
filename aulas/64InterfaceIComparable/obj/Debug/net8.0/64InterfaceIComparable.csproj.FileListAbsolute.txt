@@ -1,0 +1,15 @@
+C:\Users\mathe\Cursos\udemy-csharp\aulas\64InterfaceIComparable\bin\Debug\net8.0\64InterfaceIComparable.exe
+C:\Users\mathe\Cursos\udemy-csharp\aulas\64InterfaceIComparable\bin\Debug\net8.0\64InterfaceIComparable.deps.json
+C:\Users\mathe\Cursos\udemy-csharp\aulas\64InterfaceIComparable\bin\Debug\net8.0\64InterfaceIComparable.runtimeconfig.json
+C:\Users\mathe\Cursos\udemy-csharp\aulas\64InterfaceIComparable\bin\Debug\net8.0\64InterfaceIComparable.dll
+C:\Users\mathe\Cursos\udemy-csharp\aulas\64InterfaceIComparable\bin\Debug\net8.0\64InterfaceIComparable.pdb
+C:\Users\mathe\Cursos\udemy-csharp\aulas\64InterfaceIComparable\obj\Debug\net8.0\64InterfaceIComparable.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mathe\Cursos\udemy-csharp\aulas\64InterfaceIComparable\obj\Debug\net8.0\64InterfaceIComparable.AssemblyInfoInputs.cache
+C:\Users\mathe\Cursos\udemy-csharp\aulas\64InterfaceIComparable\obj\Debug\net8.0\64InterfaceIComparable.AssemblyInfo.cs
+C:\Users\mathe\Cursos\udemy-csharp\aulas\64InterfaceIComparable\obj\Debug\net8.0\64InterfaceIComparable.csproj.CoreCompileInputs.cache
+C:\Users\mathe\Cursos\udemy-csharp\aulas\64InterfaceIComparable\obj\Debug\net8.0\64InterfaceIComparable.sourcelink.json
+C:\Users\mathe\Cursos\udemy-csharp\aulas\64InterfaceIComparable\obj\Debug\net8.0\64InterfaceIComparable.dll
+C:\Users\mathe\Cursos\udemy-csharp\aulas\64InterfaceIComparable\obj\Debug\net8.0\refint\64InterfaceIComparable.dll
+C:\Users\mathe\Cursos\udemy-csharp\aulas\64InterfaceIComparable\obj\Debug\net8.0\64InterfaceIComparable.pdb
+C:\Users\mathe\Cursos\udemy-csharp\aulas\64InterfaceIComparable\obj\Debug\net8.0\64InterfaceIComparable.genruntimeconfig.cache
+C:\Users\mathe\Cursos\udemy-csharp\aulas\64InterfaceIComparable\obj\Debug\net8.0\ref\64InterfaceIComparable.dll
